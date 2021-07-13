@@ -1,0 +1,1001 @@
+case_month,res_state,res_county,county_fips_code,age_group,sex,race,ethnicity,case_positive_specimen_interval,case_onset_interval,process,exposure_yn,current_status,symptom_status,hosp_yn,icu_yn,death_yn,underlying_conditions_yn,low_income_score,perc_tribal_ct,perc_rural_ct
+2020-08,KY,"GRAYSON, KY",21085,0 - 17 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2021-01,NC,"MARTIN, NC",37117,0 - 17 years,,,,0.0,,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,15.0,0.0,1.0
+2021-03,VT,"FRANKLIN, VT",50011,18 to 49 years,,,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,0.0,0.0,1.0
+2021-04,OR,"CROOK, OR",41013,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-07,OK,"MUSKOGEE, OK",40101,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,15.0,1.0,0.125
+2020-12,ME,"OXFORD, ME",23017,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.058823529411764705,1.0
+2020-12,OR,"POLK, OR",41053,0 - 17 years,Female,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,0.0,0.08333333333333333,0.6666666666666666
+2020-08,NC,"RICHMOND, NC",37153,0 - 17 years,Female,,,0.0,,Missing,Unknown,Laboratory-confirmed case,Unknown,No,Unknown,No,,15.0,0.0,0.18181818181818182
+2020-12,NC,"WILKES, NC",37193,0 - 17 years,Female,,,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,No,,7.0,0.0,1.0
+2020-11,OK,"BECKHAM, OK",40009,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,15.0,1.0,1.0
+2020-04,NC,"BLADEN, NC",37017,18 to 49 years,Female,,,1.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,No,,15.0,0.0,1.0
+2020-12,PA,"INDIANA, PA",42063,18 to 49 years,Female,,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,0.6086956521739131
+2021-04,OR,"JOSEPHINE, OR",41033,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.3125
+2020-03,MS,"MADISON, MS",28089,18 to 49 years,Female,,,0.0,0.0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,0.0,0.0,0.3333333333333333
+2021-02,OK,"POTTAWATOMIE, OK",40125,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,7.0,1.0,0.125
+2021-01,ME,"AROOSTOOK, ME",23003,0 - 17 years,Male,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,7.0,0.375,1.0
+2020-10,OH,"LOGAN, OH",39091,0 - 17 years,Male,,,,0.0,Multiple,Yes,Probable Case,Symptomatic,No,No,No,,0.0,0.0,1.0
+2020-12,NY,"STEUBEN, NY",36101,0 - 17 years,Male,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.9666666666666667
+2020-05,MS,"RANKIN, MS",28121,18 to 49 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.1111111111111111
+2020-11,CA,"LOS ANGELES, CA",06037,50 to 64 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,,7.0,0.0,0.005972696245733789
+2021-04,NC,"EDGECOMBE, NC",37065,50 to 64 years,Female,Black,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,15.0,0.0,0.5714285714285714
+2020-10,MN,"CLAY, MN",27027,18 to 49 years,Female,White,Missing,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.23076923076923078
+2020-12,CA,"YOLO, CA",06113,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,7.0,0.024390243902439025,0.07317073170731707
+2021-01,CA,"ALAMEDA, CA",06001,18 to 49 years,Female,Asian,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-12,MI,"OAKLAND, MI",26125,18 to 49 years,Male,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.026627218934911243
+2020-05,NC,"DUPLIN, NC",37061,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.0,1.0
+2020-07,MD,"DORCHESTER, MD",24019,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,Yes,7.0,0.0,1.0
+2020-04,CO,"MORGAN, CO",08087,18 to 49 years,Female,White,Hispanic/Latino,,1.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2021-04,MI,"SAGINAW, MI",26145,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,0.25
+2020-12,OH,"DEFIANCE, OH",39039,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Contact tracing of case patient,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,1.0
+2020-11,NC,"ROCKINGHAM, NC",37157,18 to 49 years,Male,White,Hispanic/Latino,0.0,,Missing,Unknown,Laboratory-confirmed case,Unknown,No,Unknown,No,,15.0,0.0,1.0
+2020-06,TN,"SUMNER, TN",47165,18 to 49 years,Male,White,Hispanic/Latino,1.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,0.2619047619047619
+2020-04,NH,"BELKNAP, NH",33001,,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,1.0
+2020-11,NH,"COOS, NH",33007,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,Unknown,Unknown,No,,7.0,0.0,1.0
+2020-11,MN,"CASS, MN",27021,18 to 49 years,Female,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.5,1.0
+2020-07,NY,"CHEMUNG, NY",36015,18 to 49 years,Female,Missing,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.045454545454545456
+2020-08,NC,"CHEROKEE, NC",37039,18 to 49 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,Unknown,Unknown,No,,15.0,0.5714285714285714,1.0
+2020-08,KS,"FRANKLIN, KS",20059,18 to 49 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,1.0
+2020-09,MD,"QUEEN ANNE'S, MD",24035,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.5833333333333334
+2020-11,KY,"SCOTT, KY",21209,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.07142857142857142
+2020-11,OH,"WASHINGTON, OH",39167,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.8125
+2021-02,NY,"CHAUTAUQUA, NY",36013,50 to 64 years,Female,Missing,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.05714285714285714,0.2857142857142857
+2020-11,KY,"CALLOWAY, KY",21035,18 to 49 years,Male,Missing,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,7.0,0.0,1.0
+2020-11,KY,"OHIO, KY",21183,18 to 49 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2021-01,NC,"STOKES, NC",37169,18 to 49 years,Male,,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.4444444444444444
+2021-03,NY,"SCHENECTADY, NY",36093,18 to 49 years,Male,Asian,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.023255813953488372
+2020-06,SC,"SALUDA, SC",45081,18 to 49 years,Female,Black,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-12,NY,"CHENANGO, NY",36017,50 to 64 years,Female,Multiple/Other,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,1.0
+2020-11,MN,"DAKOTA, MN",27037,0 - 17 years,Female,Unknown,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.010526315789473684,0.08421052631578947
+2021-01,NJ,"MERCER, NJ",34021,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.0
+2020-12,NY,"ONONDAGA, NY",36067,18 to 49 years,Male,Missing,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.04285714285714286,0.05714285714285714
+2020-04,NJ,"SALEM, NJ",34033,18 to 49 years,Male,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,0.4583333333333333
+2021-01,NC,"UNION, NC",37179,18 to 49 years,Male,Black,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.07317073170731707
+2021-04,NJ,"GLOUCESTER, NJ",34015,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-12,KS,"SEDGWICK, KS",20173,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,0.0,0.0,Multiple,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,0.024193548387096774
+2020-08,FL,"SEMINOLE, FL",12117,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-11,AZ,"COCONINO, AZ",04005,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,7.0,0.42857142857142855,0.39285714285714285
+2020-07,NC,"WILSON, NC",37195,18 to 49 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.0,0.21052631578947367
+2020-11,NC,"BRUNSWICK, NC",37019,18 to 49 years,Male,White,Hispanic/Latino,0.0,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.42424242424242425
+2020-11,OK,"BRYAN, OK",40013,18 to 49 years,Male,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,7.0,1.0,1.0
+2020-11,OK,"CHEROKEE, OK",40021,18 to 49 years,Male,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,15.0,1.0,0.8888888888888888
+2021-05,MI,"DICKINSON, MI",26043,0 - 17 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2021-04,ME,"FRANKLIN, ME",23007,18 to 49 years,,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.1111111111111111,1.0
+2020-12,PA,"CAMBRIA, PA",42021,0 - 17 years,Female,,,,,Missing,Missing,Probable Case,Unknown,No,Unknown,No,,7.0,0.0,0.40476190476190477
+2020-04,MS,"HINDS, MS",28049,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,0.046875
+2020-05,NC,"MACON, NC",37113,18 to 49 years,Female,,,0.0,,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,1.0
+2020-05,KY,"OLDHAM, KY",21185,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.07142857142857142
+2020-12,NH,"CHESHIRE, NH",33005,65+ years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,1.0
+2020-11,NV,"CHURCHILL, NV",32001,65+ years,Female,,,0.0,0.0,Routine surveillance,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.7142857142857143,1.0
+2020-09,NC,"WATAUGA, NC",37189,65+ years,Female,,,13.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.0,1.0
+2020-12,ME,"CUMBERLAND, ME",23005,18 to 49 years,Male,Asian,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.15151515151515152
+2021-01,KS,"GEARY, KS",20061,18 to 49 years,Male,Asian,,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.0
+2020-10,MN,"DOUGLAS, MN",27041,18 to 49 years,Female,Multiple/Other,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-08,NV,"ELKO, NV",32007,18 to 49 years,Female,Multiple/Other,,0.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.42857142857142855,1.0
+2020-11,MN,"KANDIYOHI, MN",27067,18 to 49 years,Female,Multiple/Other,Missing,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,1.0
+2020-11,MN,"ST. LOUIS, MN",27137,0 - 17 years,Male,Multiple/Other,Missing,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.07575757575757576,0.4090909090909091
+2021-01,NC,"LENOIR, NC",37107,18 to 49 years,Male,Multiple/Other,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,15.0,0.0,0.13333333333333333
+2020-12,OR,"LINN, OR",41043,18 to 49 years,Male,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.047619047619047616,0.5238095238095238
+2020-07,OH,"FRANKLIN, OH",39049,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,7.0,0.0,0.0
+2020-08,CA,"MENDOCINO, CA",06045,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.5,0.65
+2020-11,NC,"ONSLOW, NC",37133,18 to 49 years,Female,Unknown,Hispanic/Latino,1.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.21875
+2020-05,IA,"POLK, IA",19153,18 to 49 years,Female,Missing,Hispanic/Latino,,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,0.0,0.0,0.02040816326530612
+2020-06,AZ,"SANTA CRUZ, AZ",04023,18 to 49 years,Female,Missing,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,0.2
+2020-06,FL,"ST. LUCIE, FL",12111,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.022727272727272728,0.0
+2020-06,NC,"GUILFORD, NC",37081,18 to 49 years,Male,Unknown,Hispanic/Latino,0.0,,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,7.0,0.0,0.008403361344537815
+2020-12,CA,"BUTTE, CA",06007,50 to 64 years,Male,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,7.0,0.1568627450980392,0.0784313725490196
+2021-01,CA,"SAN BERNARDINO, CA",06071,0 - 17 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.02168021680216802,0.08672086720867209
+2021-01,CA,"VENTURA, CA",06111,0 - 17 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.0,0.034482758620689655
+2020-04,PA,"LEHIGH, PA",42077,18 to 49 years,Female,Black,Hispanic/Latino,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,0.0,0.0,0.013157894736842105
+2021-03,FL,"PINELLAS, FL",12103,0 - 17 years,Female,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-06,VA,"CHESAPEAKE CITY, VA",51550,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-07,FL,"BAY, FL",12005,18 to 49 years,Male,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.046511627906976744
+2020-12,FL,"MANATEE, FL",12081,0 - 17 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.02564102564102564
+2020-06,NC,"CALDWELL, NC",37027,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.058823529411764705
+2020-10,NC,"CATAWBA, NC",37035,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,0.0967741935483871
+2020-07,NC,"NASH, NC",37127,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,7.0,0.0,0.2777777777777778
+2020-07,MI,"LEELANAU, MI",26089,,,,,,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.16666666666666666,0.6666666666666666
+2020-12,OH,"CARROLL, OH",39019,18 to 49 years,,,,,0.0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,1.0
+2021-03,NH,"GRAFTON, NH",33009,50 to 64 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.7368421052631579
+2020-05,KY,"ALLEN, KY",21003,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-06,FL,"GADSDEN, FL",12039,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,,15.0,0.0,0.6666666666666666
+2020-07,ID,"JEROME, ID",16053,18 to 49 years,Female,,,1.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,7.0,0.0,1.0
+2020-12,VA,"PULASKI, VA",51155,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,7.0,0.0,0.8
+2020-08,KY,"GRAVES, KY",21083,50 to 64 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2020-09,NC,"PASQUOTANK, NC",37139,50 to 64 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,1.0
+2020-09,NC,"HALIFAX, NC",37083,18 to 49 years,Female,Black,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,15.0,0.0,1.0
+2020-10,MN,"TODD, MN",27153,18 to 49 years,Female,White,Missing,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,1.0
+2020-11,MN,"DODGE, MN",27039,18 to 49 years,Male,White,Missing,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,1.0
+2020-11,MN,"WABASHA, MN",27157,18 to 49 years,Male,White,Missing,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,1.0
+2020-07,CA,"SAN FRANCISCO, CA",06075,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-11,CA,"SONOMA, CA",06097,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.020202020202020204,0.09090909090909091
+2020-10,NY,"WESTCHESTER, NY",36119,18 to 49 years,Female,Missing,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.0
+2020-09,OK,"PAYNE, OK",40119,18 to 49 years,Male,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,15.0,0.5294117647058824,0.29411764705882354
+2020-03,NJ,"HUDSON, NJ",34017,18 to 49 years,Female,Black,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,0.0
+2021-02,CA,"HUMBOLDT, CA",06023,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,No,Missing,No,,15.0,0.23333333333333334,0.4
+2021-01,OK,"COMANCHE, OK",40031,0 - 17 years,Female,White,Hispanic/Latino,,,Missing,Missing,Probable Case,Unknown,No,Missing,No,,15.0,1.0,0.125
+2020-04,NJ,"HUNTERDON, NJ",34019,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,0.15384615384615385
+2020-10,SC,"YORK, SC",45091,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,0.0,0.021739130434782608,0.15217391304347827
+2020-08,ID,"JEFFERSON, ID",16051,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Routine surveillance,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-05,KY,"NELSON, KY",21179,,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-04,ME,"KENNEBEC, ME",23011,50 to 64 years,,,,,1.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.7741935483870968
+2021-05,KY,"HOPKINS, KY",21107,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2020-10,NY,"TIOGA, NY",36107,0 - 17 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.7
+2020-10,ID,"BANNOCK, ID",16005,18 to 49 years,Female,Missing,Missing,0.0,,Other detection method (specify),Missing,Laboratory-confirmed case,Missing,No,Missing,No,,7.0,0.18181818181818182,0.09090909090909091
+2020-07,PA,"HUNTINGDON, PA",42061,18 to 49 years,Female,,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Yes,No,No,Yes,0.0,0.0,1.0
+2021-05,NH,"MERRIMACK, NH",33013,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,0.4444444444444444
+2021-03,NY,"ORLEANS, NY",36073,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2021-02,NC,"POLK, NC",37149,18 to 49 years,Female,,,0.0,0.0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,,0.0,0.0,1.0
+2020-12,MT,"SILVER BOW, MT",30093,50 to 64 years,Female,Missing,Missing,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,7.0,0.0,0.0
+2021-01,NC,"HOKE, NC",37093,18 to 49 years,Female,American Indian/Alaska Native,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,7.0,0.0,0.2222222222222222
+2021-02,CA,"KINGS, CA",06031,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,7.0,0.07407407407407407,0.18518518518518517
+2020-08,CA,"MADERA, CA",06039,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.08695652173913043,0.4782608695652174
+2020-12,CA,"MONTEREY, CA",06053,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.0,0.10752688172043011
+2021-01,VA,"ARLINGTON, VA",51013,18 to 49 years,Female,Missing,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-08,NH,"HILLSBOROUGH, NH",33011,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,0.13953488372093023
+2020-03,NY,"PUTNAM, NY",36079,18 to 49 years,Female,Unknown,Hispanic/Latino,1.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.10526315789473684
+2020-12,NJ,"CAMDEN, NJ",34007,50 to 64 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-04,NJ,"MORRIS, NJ",34027,50 to 64 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,0.02
+2021-04,NJ,"BERGEN, NJ",34003,18 to 49 years,Female,Asian,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.0
+2020-06,NC,"HARNETT, NC",37085,0 - 17 years,Female,White,Hispanic/Latino,0.0,,Missing,Yes,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,7.0,0.0,0.6296296296296297
+2020-12,AR,"CARROLL, AR",05015,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,7.0,0.0,1.0
+2021-01,KS,"FINNEY, KS",20055,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.08333333333333333
+2020-11,PA,"LUZERNE, PA",42079,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,7.0,0.0,0.08653846153846154
+2020-09,ID,"MADISON, ID",16065,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Routine surveillance,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,0.0
+2020-06,KS,"SHAWNEE, KS",20177,18 to 49 years,Female,White,Hispanic/Latino,3.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,No,0.0,0.0,0.023255813953488372
+2021-01,AZ,"GRAHAM, AZ",04009,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.4444444444444444,1.0
+2020-10,IA,"JOHNSON, IA",20091,65+ years,Female,White,Non-Hispanic/Latino,0.0,0.0,Contact tracing of case patient,Yes,Laboratory-confirmed case,Symptomatic,Yes,Unknown,No,,0.0,0.0,0.007692307692307693
+2020-08,OH,"FAIRFIELD, OH",39045,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.17857142857142858
+2020-12,KY,"BOYLE, KY",21021,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,7.0,0.0,1.0
+2020-09,OH,"CLINTON, OH",39027,18 to 49 years,Female,,,,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,1.0
+2020-10,VA,"HARRISONBURG CITY, VA",51660,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,0.0
+2020-05,NY,"MADISON, NY",36053,18 to 49 years,Female,Missing,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0625,0.4375
+2020-11,KS,"POTTAWATOMIE, KS",20149,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.75
+2020-12,KY,"TAYLOR, KY",21217,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-09,NC,"CASWELL, NC",37033,50 to 64 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,No,,7.0,0.0,1.0
+2020-11,MN,"HUBBARD, MN",27057,18 to 49 years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.2857142857142857,1.0
+2020-11,MN,"ITASCA, MN",27061,0 - 17 years,Female,White,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.45454545454545453,1.0
+2021-03,CA,"SANTA CLARA, CA",06085,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.0,0.0
+2020-06,CA,"SOLANO, CA",06095,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,No,Missing,No,,0.0,0.0,0.041666666666666664
+2021-01,VA,"PRINCE WILLIAM, VA",51153,18 to 49 years,Female,Missing,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2021-01,CA,"ORANGE, CA",06059,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-12,CA,"SAN DIEGO, CA",06073,18 to 49 years,Female,Asian,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,0.03827751196172249,0.01594896331738437
+2020-07,GA,"HALL, GA",13139,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,1.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.05555555555555555
+2021-04,MI,"WASHTENAW, MI",26161,18 to 49 years,Male,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,,0.0,0.0,0.1
+2020-06,NC,"ALAMANCE, NC",37001,0 - 17 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,No,,7.0,0.0,0.08333333333333333
+2020-10,FL,"HARDEE, FL",12049,0 - 17 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2021-04,NJ,"WARREN, NJ",34041,0 - 17 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.30434782608695654
+2020-12,KS,"BUTLER, KS",20015,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Probable Case,Unknown,No,Unknown,No,,0.0,0.0,0.8461538461538461
+2020-11,MN,"POLK, MN",27119,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.2,0.7
+2020-06,FL,"SARASOTA, FL",12115,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-10,ID,"TWIN FALLS, ID",16083,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Clinical evaluation,Yes,Probable Case,Symptomatic,No,Missing,No,,0.0,0.0,0.35714285714285715
+2020-12,KS,"SALINE, KS",20169,0 - 17 years,Male,White,Hispanic/Latino,0.0,0.0,Laboratory reported,Yes,Probable Case,Symptomatic,No,Unknown,No,,0.0,0.0,0.0
+2021-01,KS,"COWLEY, KS",20035,18 to 49 years,Male,White,Hispanic/Latino,0.0,,Laboratory reported,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,7.0,0.18181818181818182,1.0
+2020-09,IA,"WAPELLO, IA",19179,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,Unknown,No,No,,7.0,0.0,0.18181818181818182
+2020-05,CT,"TOLLAND, CT",09013,,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.13793103448275862
+2021-02,VA,"PAGE, VA",51139,0 - 17 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,,0.0,0.0,1.0
+2020-11,MI,"ROSCOMMON, MI",26143,0 - 17 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-12,AR,"JEFFERSON, AR",05069,0 - 17 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,15.0,0.0,0.125
+2020-08,MN,"LE SUEUR, MN",27079,0 - 17 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.8333333333333334
+2021-02,MI,"MIDLAND, MI",26111,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.10526315789473684,0.2631578947368421
+2021-03,FL,"SUMTER, FL",12119,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.5789473684210527
+2021-01,IN,"GRANT, IN",18053,18 to 49 years,Female,Missing,Missing,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,7.0,0.0,0.125
+2020-11,MN,"NOBLES, MN",27105,18 to 49 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2021-05,OH,"WARREN, OH",21227,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,No,,7.0,0.0,0.041666666666666664
+2020-07,NC,"YADKIN, NC",37197,18 to 49 years,Female,,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,1.0
+2020-12,KY,"LETCHER, KY",21133,50 to 64 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,No,,15.0,0.0,1.0
+2020-10,KY,"BELL, KY",21013,18 to 49 years,Male,Missing,Missing,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,15.0,0.0,1.0
+2020-11,NC,"MONTGOMERY, NC",01101,18 to 49 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.015384615384615385,0.06153846153846154
+2020-08,KS,"RENO, KS",20155,18 to 49 years,Male,,,0.0,,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,7.0,0.0,0.23529411764705882
+2020-11,MN,"MCLEOD, MN",27085,50 to 64 years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-12,KS,"SUMNER, KS",20191,50 to 64 years,Male,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,No,No,,0.0,0.3333333333333333,0.8333333333333334
+2020-11,MN,"MILLE LACS, MN",27095,65+ years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.42857142857142855,1.0
+2020-11,OR,"JEFFERSON, OR",41031,50 to 64 years,Female,American Indian/Alaska Native,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.5,1.0
+2020-04,MN,"STEARNS, MN",27145,18 to 49 years,Female,Black,Missing,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.3793103448275862
+2021-02,ME,"ANDROSCOGGIN, ME",23001,18 to 49 years,Male,Black,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.2857142857142857
+2020-11,OR,"BENTON, OR",41003,18 to 49 years,Male,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.0
+2021-01,KY,"LAUREL, KY",21125,18 to 49 years,Male,Multiple/Other,,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,15.0,0.0,0.15384615384615385
+2020-12,MN,"BENTON, MN",27009,0 - 17 years,Female,White,Missing,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,Yes,0.0,0.0,0.3333333333333333
+2020-11,MN,"WINONA, MN",27169,18 to 49 years,Female,White,Missing,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.2
+2020-05,CO,"DENVER, CO",08031,18 to 49 years,Female,Missing,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-08,OK,"OKLAHOMA, OK",40109,18 to 49 years,Female,Missing,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Yes,Missing,No,,7.0,0.0995850622406639,0.0
+2020-07,NC,"WAKE, NC",37183,18 to 49 years,Female,Unknown,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,0.0106951871657754
+2020-08,CA,"LASSEN, CA",06035,18 to 49 years,Male,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,,7.0,0.3333333333333333,1.0
+2021-02,CA,"RIVERSIDE, CA",06065,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.1479028697571744,0.026490066225165563
+2021-04,NJ,"MONMOUTH, NJ",34025,18 to 49 years,Female,Black,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.006944444444444444
+2020-12,MN,"ANOKA, MN",27003,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.060240963855421686
+2020-06,FL,"BREVARD, FL",12009,0 - 17 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.008849557522123894
+2020-06,NC,"ROWAN, NC",37159,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,0.13333333333333333
+2020-06,TN,"BRADLEY, TN",47011,18 to 49 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,0.05263157894736842
+2020-10,MI,"GENESEE, MI",26049,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.08396946564885496
+2020-06,FL,"HENDRY, FL",12051,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.14285714285714285,0.8571428571428571
+2020-04,NC,"SAMPSON, NC",37163,18 to 49 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,1.0
+2021-01,AZ,"GILA, AZ",04007,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,15.0,0.5625,1.0
+2020-11,MN,"WRIGHT, MN",27171,18 to 49 years,Male,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.7058823529411765
+2020-10,AL,"MARSHALL, AL",21157,18 to 49 years,Male,White,Non-Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-10,KY,"LINCOLN, KY",21137,0 - 17 years,,,,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,15.0,0.0,1.0
+2020-06,UT,"SANPETE, UT",49039,18 to 49 years,,,,1.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,1.0
+2020-08,ME,"SOMERSET, ME",23025,18 to 49 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.058823529411764705,1.0
+2021-01,NH,"CARROLL, NH",33003,50 to 64 years,,,,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,Unknown,Unknown,No,,0.0,0.0,1.0
+2021-01,FL,"BRADFORD, FL",12007,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,15.0,0.0,1.0
+2020-12,NY,"DELAWARE, NY",36025,0 - 17 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-12,OH,"FAYETTE, OH",39047,0 - 17 years,Female,,,,0.0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,1.0
+2020-07,NY,"CATTARAUGUS, NY",36009,18 to 49 years,Female,Missing,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.47619047619047616,1.0
+2020-09,KY,"FRANKLIN, KY",21073,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.0
+2021-04,OH,"GUERNSEY, OH",39059,18 to 49 years,Female,,,1.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,1.0
+2020-05,NY,"MONTGOMERY, NY",36057,18 to 49 years,Female,Missing,,6.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.875
+2020-12,ID,"NEZ PERCE, ID",16069,18 to 49 years,Female,Missing,Missing,2.0,0.0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.4,0.2
+2021-01,KY,"WHITLEY, KY",21235,18 to 49 years,Female,,,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,15.0,0.0,0.625
+2020-11,OK,"SEQUOYAH, OK",40135,50 to 64 years,Female,,,,,Missing,Missing,Probable Case,Unknown,No,Missing,No,,15.0,1.0,0.8888888888888888
+2021-02,NC,"CRAVEN, NC",37049,0 - 17 years,Female,Black,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,7.0,0.0,0.3333333333333333
+2021-04,NC,"DAVIDSON, NC",37057,0 - 17 years,Female,Black,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,7.0,0.0,0.058823529411764705
+2020-07,SC,"FAIRFIELD, SC",45039,0 - 17 years,Female,Black,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,0.8
+2020-11,MN,"BLUE EARTH, MN",27013,18 to 49 years,Female,Black,Missing,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,7.0,0.0,0.1875
+2021-04,NY,"ST. LAWRENCE, NY",36089,18 to 49 years,Male,Black,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,15.0,0.07142857142857142,1.0
+2021-03,CA,"DEL NORTE, CA",06015,0 - 17 years,Male,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.5714285714285714,1.0
+2021-03,VA,"CHARLOTTESVILLE CITY, VA",51540,18 to 49 years,Female,White,Missing,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,0.0
+2020-12,MN,"ISANTI, MN",27059,18 to 49 years,Female,White,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-07,CA,"MARIN, CA",06041,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,0.0,0.03636363636363636
+2020-08,CA,"SANTA BARBARA, CA",06083,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.011111111111111112,0.06666666666666667
+2020-07,OK,"TULSA, OK",40143,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,No,,7.0,1.0,0.005714285714285714
+2020-06,KS,"CRAWFORD, KS",20037,18 to 49 years,Male,Unknown,Hispanic/Latino,0.0,,Missing,Yes,Laboratory-confirmed case,Asymptomatic,No,No,No,No,15.0,0.0,1.0
+2020-07,CA,"FRESNO, CA",06019,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,16.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.01507537688442211,0.1306532663316583
+2020-12,NV,"CLARK, NV",32003,18 to 49 years,Male,Asian,Hispanic/Latino,0.0,0.0,Routine surveillance,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,0.0,0.014373716632443531,0.030800821355236138
+2021-03,FL,"HERNANDO, FL",12053,0 - 17 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.08888888888888889
+2020-12,OH,"CLARK, OH",39023,18 to 49 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,7.0,0.0,0.09090909090909091
+2021-04,OR,"DESCHUTES, OR",41017,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.20833333333333334
+2021-03,NC,"CUMBERLAND, NC",37051,18 to 49 years,Male,White,Hispanic/Latino,0.0,,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,15.0,0.0,0.029411764705882353
+2021-01,NY,"DUTCHESS, NY",36027,18 to 49 years,Male,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Yes,Missing,No,,0.0,0.0,0.20253164556962025
+2021-01,NC,"MCDOWELL, NC",37111,18 to 49 years,Male,White,Hispanic/Latino,2.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,0.9
+2020-11,MN,"OLMSTED, MN",27109,18 to 49 years,Male,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.09090909090909091
+2020-04,NY,"SULLIVAN, NY",36105,18 to 49 years,Male,White,Hispanic/Latino,1.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-11,VT,"WINDSOR, VT",50027,18 to 49 years,,,,0.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,0.0,0.0,0.7777777777777778
+2021-04,OH,"BELMONT, OH",39013,0 - 17 years,Female,,,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,0.3
+2020-09,FL,"FLAGLER, FL",12035,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2021-01,OH,"MUSKINGUM, OH",39119,0 - 17 years,Female,,,,0.0,Contact tracing of case patient,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,0.15789473684210525
+2020-09,OK,"STEPHENS, OK",40137,0 - 17 years,Female,,,,,Missing,Missing,Probable Case,Unknown,No,Missing,No,,7.0,1.0,1.0
+2021-02,OH,"WAYNE, OH",39169,0 - 17 years,Female,,,0.0,0.0,Unknown,Unknown,Probable Case,Symptomatic,Unknown,Unknown,No,,0.0,0.0,0.5
+2020-10,NY,"WYOMING, NY",36121,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2021-01,NC,"DAVIE, NC",37059,18 to 49 years,Female,,,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.7142857142857143
+2021-02,NY,"JEFFERSON, NY",36045,0 - 17 years,Male,Missing,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.23076923076923078
+2020-11,MN,"BECKER, MN",27005,18 to 49 years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.5,1.0
+2021-01,MN,"FREEBORN, MN",27047,18 to 49 years,Male,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-08,NC,"ANSON, NC",37007,50 to 64 years,Female,Black,,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.0,1.0
+2021-02,NY,"RENSSELAER, NY",36083,0 - 17 years,Male,Black,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.21428571428571427
+2020-07,OH,"TRUMBULL, OH",39155,18 to 49 years,Female,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,0.09090909090909091
+2020-06,CA,"CONTRA COSTA, CA",06013,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.00966183574879227,0.01932367149758454
+2020-12,NC,"FORSYTH, NC",37067,0 - 17 years,Female,Unknown,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,7.0,0.0,0.0
+2020-05,VA,"CHESTERFIELD, VA",51041,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-11,KS,"WYANDOTTE, KS",20209,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Laboratory reported,Unknown,Laboratory-confirmed case,Symptomatic,No,No,No,,15.0,0.0,0.0
+2020-09,NC,"LEE, NC",37105,18 to 49 years,Male,Unknown,Hispanic/Latino,1.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,0.0
+2021-01,CA,"KERN, CA",06029,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,15.0,0.0,0.23178807947019867
+2021-03,NY,"NASSAU, NY",36059,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.0
+2020-12,CA,"TULARE, CA",06107,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.02564102564102564,0.21794871794871795
+2020-11,NC,"PITT, NC",37147,0 - 17 years,Male,Black,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.0,0.125
+2020-12,MN,"HENNEPIN, MN",27053,18 to 49 years,Male,Black,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,Yes,0.0,0.0,0.006688963210702341
+2021-02,MI,"INGHAM, MI",26065,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.09876543209876543
+2021-02,CA,"EL DORADO, CA",06017,18 to 49 years,Male,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.046511627906976744,0.13953488372093023
+2021-04,CA,"SHASTA, CA",06089,18 to 49 years,Male,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.08333333333333333,0.20833333333333334
+2020-11,VA,"ALEXANDRIA CITY, VA",51510,0 - 17 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-04,NC,"RANDOLPH, NC",37151,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,7.0,0.0,0.14285714285714285
+2020-11,MN,"CARVER, MN",27019,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.2631578947368421
+2020-05,MN,"RICE, MN",27131,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,1.0
+2021-01,OR,"WASCO, OR",41065,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.125,1.0
+2020-11,KS,"DOUGLAS, KS",20045,18 to 49 years,Male,White,Hispanic/Latino,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,0.09090909090909091
+2020-12,OH,"JEFFERSON, OH",21111,18 to 49 years,Female,White,Non-Hispanic/Latino,,,Missing,Missing,Probable Case,Missing,Missing,Missing,No,,7.0,0.0,0.0
+2021-03,KY,"HARDIN, KY",21093,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.045454545454545456
+2020-11,KS,"MCPHERSON, KS",20113,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,1.0
+2020-11,OK,"WAGONER, OK",40145,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,1.0,0.2727272727272727
+2021-01,KY,"BULLITT, KY",21029,18 to 49 years,Female,Missing,Missing,,,Missing,Missing,Probable Case,Missing,Missing,Missing,No,,0.0,0.0,0.2222222222222222
+2021-05,NC,"CURRITUCK, NC",37053,18 to 49 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.875
+2020-12,OK,"DELAWARE, OK",40041,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,15.0,1.0,1.0
+2020-12,VA,"FAUQUIER, VA",51061,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.5882352941176471
+2021-01,OH,"PERRY, OH",39127,18 to 49 years,Female,,,,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,1.0
+2020-10,KY,"LOGAN, KY",21141,50 to 64 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,No,,7.0,0.0,1.0
+2021-01,OH,"SENECA, OH",39147,50 to 64 years,Female,,,,0.0,Contact tracing of case patient,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,1.0
+2020-10,NC,"GREENE, NC",37079,65+ years,Female,,,0.0,,Missing,Missing,Probable Case,Unknown,Unknown,Unknown,No,,15.0,0.0,1.0
+2021-03,OH,"JEFFERSON, OH",39081,18 to 49 years,Female,Black,,1.0,0.0,Clinical evaluation,Unknown,Probable Case,Symptomatic,No,No,No,,7.0,0.0,0.13043478260869565
+2021-03,NY,"ULSTER, NY",36111,18 to 49 years,Female,Black,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.23404255319148937
+2020-11,VA,"PETERSBURG CITY, VA",51730,50 to 64 years,Male,Black,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,0.0
+2021-04,SC,"OCONEE, SC",45073,18 to 49 years,Male,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.4
+2020-12,OH,"ALLEN, OH",39003,50 to 64 years,Male,Multiple/Other,,,,Missing,Missing,Probable Case,Missing,Missing,Missing,No,,0.0,0.0,0.18181818181818182
+2020-09,MN,"BROWN, MN",27015,0 - 17 years,Female,White,,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,1.0
+2020-11,MN,"FILLMORE, MN",27045,18 to 49 years,Male,White,Missing,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,1.0
+2020-10,CA,"IMPERIAL, CA",06025,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.12903225806451613,0.25806451612903225
+2020-06,FL,"COLLIER, FL",12021,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0547945205479452,0.0684931506849315
+2020-04,VA,"CULPEPER, VA",51047,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,0.0,0.0,1.0
+2020-10,KY,"FAYETTE, KY",21067,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,,7.0,0.0,0.0
+2020-11,MN,"SCOTT, MN",27139,18 to 49 years,Male,Unknown,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Yes,No,No,,0.0,0.19047619047619047,0.19047619047619047
+2021-01,NC,"CABARRUS, NC",37025,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.05405405405405406
+2021-04,RI,"PROVIDENCE, RI",44007,0 - 17 years,Female,Black,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.014184397163120567
+2020-12,NJ,"BURLINGTON, NJ",34005,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.008771929824561403
+2020-11,CA,"TUOLUMNE, CA",06109,18 to 49 years,Male,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.18181818181818182,0.2727272727272727
+2020-06,TN,"HAMBLEN, TN",47063,0 - 17 years,Female,White,Hispanic/Latino,0.0,,Missing,Yes,Laboratory-confirmed case,Asymptomatic,No,No,No,,7.0,0.0,0.0
+2020-06,NC,"PENDER, NC",37141,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,No,,0.0,0.0,0.8125
+2020-07,TN,"ANDERSON, TN",47001,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,0.16666666666666666
+2020-09,KS,"ELLIS, KS",20051,0 - 17 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,,0.0,0.0,1.0
+2020-07,PA,"FAYETTE, PA",42051,0 - 17 years,Female,,,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,15.0,0.0,0.25
+2020-09,FL,"WAKULLA, FL",12129,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-11,VT,"WASHINGTON, VT",50023,0 - 17 years,Female,,,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-12,ID,"BINGHAM, ID",16011,18 to 49 years,Female,Missing,Missing,0.0,,Other detection method (specify),Missing,Probable Case,Unknown,No,Missing,No,,0.0,0.75,1.0
+2020-12,CA,"CALAVERAS, CA",06009,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.0,1.0
+2021-03,KY,"MONTGOMERY, KY",21173,18 to 49 years,Female,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2021-01,MI,"CHIPPEWA, MI",26033,65+ years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.35714285714285715,1.0
+2020-12,KY,"ROWAN, KY",21205,65+ years,Female,Missing,Missing,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2020-05,NY,"ALLEGANY, NY",36003,18 to 49 years,Male,Missing,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,15.0,0.15384615384615385,1.0
+2020-11,MN,"STEELE, MN",27147,18 to 49 years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.125
+2021-01,ME,"SAGADAHOC, ME",23023,50 to 64 years,Male,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.2222222222222222
+2021-03,NC,"COLUMBUS, NC",37047,0 - 17 years,Female,Black,,0.0,,Missing,Missing,Probable Case,Unknown,Unknown,Unknown,No,,15.0,0.0,1.0
+2020-04,KS,"FORD, KS",20057,50 to 64 years,Male,Unknown,Hispanic/Latino,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,7.0,0.0,0.2857142857142857
+2020-12,CA,"STANISLAUS, CA",06099,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.06382978723404255
+2020-11,NJ,"MIDDLESEX, NJ",34023,18 to 49 years,Female,Black,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-12,NJ,"UNION, NJ",34039,18 to 49 years,Female,Black,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2021-01,UT,"SALT LAKE, UT",49035,18 to 49 years,Male,Black,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,0.0
+2020-05,NC,"SURRY, NC",37171,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,1.0
+2020-07,NM,"VALENCIA, NM",35061,0 - 17 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.3888888888888889,0.05555555555555555
+2021-02,NJ,"CAPE MAY, NJ",34009,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,0.0,0.0,0.03125
+2020-10,WI,"CLARK, WI",55019,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.25,1.0
+2020-12,CA,"YUBA, CA",06115,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,7.0,0.14285714285714285,0.21428571428571427
+2020-05,MD,"CAROLINE, MD",24011,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-10,KS,"HARVEY, KS",20079,18 to 49 years,Male,White,Hispanic/Latino,1.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,0.0,0.0,1.0
+2020-08,NC,"ORANGE, NC",37135,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,0.07142857142857142
+2020-12,AR,"POPE, AR",05115,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,7.0,0.0,0.2727272727272727
+2020-10,AR,"LOGAN, AR",05083,0 - 17 years,,,,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,7.0,0.0,1.0
+2021-01,ME,"LINCOLN, ME",23015,18 to 49 years,,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,No,,0.0,0.0,0.9
+2021-01,VT,"RUTLAND, VT",50021,65+ years,,,,0.0,0.0,Clinical evaluation,Unknown,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2021-04,OH,"UNION, OH",39159,0 - 17 years,Female,,,0.0,0.0,Clinical evaluation,Unknown,Probable Case,Symptomatic,No,Missing,No,,0.0,0.0,0.9
+2020-12,ME,"HANCOCK, ME",23009,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.058823529411764705,1.0
+2021-02,VA,"HANOVER, VA",51085,18 to 49 years,Female,Missing,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.2608695652173913
+2021-03,CA,"LAKE, CA",06033,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.3333333333333333,1.0
+2020-11,MD,"ALLEGANY, MD",24001,18 to 49 years,Male,Missing,Missing,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,7.0,0.0,0.17391304347826086
+2020-12,ID,"ELMORE, ID",16039,18 to 49 years,Male,Missing,Missing,0.0,,Missing,Missing,Probable Case,Unknown,No,Missing,No,,7.0,0.0,1.0
+2020-07,NY,"FRANKLIN, NY",36033,18 to 49 years,Male,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,15.0,0.14285714285714285,1.0
+2021-03,ME,"KNOX, ME",23013,18 to 49 years,Male,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,1.0
+2020-12,OH,"WYANDOT, OH",39175,18 to 49 years,Male,,,,0.0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,1.0
+2021-03,OR,"COOS, OR",41011,50 to 64 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,,7.0,0.6923076923076923,0.3076923076923077
+2020-08,NC,"HERTFORD, NC",37091,0 - 17 years,Female,Black,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.0,1.0
+2020-12,NY,"SCHOHARIE, NY",36095,18 to 49 years,Female,Multiple/Other,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-11,CA,"SAN LUIS OBISPO, CA",06079,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.09433962264150944
+2020-06,FL,"MARTIN, FL",12085,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.05714285714285714
+2020-05,MN,"RAMSEY, MN",27123,18 to 49 years,Female,Unknown,Hispanic/Latino,-1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,Yes,0.0,0.0,0.0
+2020-08,NV,"WASHOE, NV",32031,18 to 49 years,Female,Unknown,Hispanic/Latino,0.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.14285714285714285,0.05357142857142857
+2021-01,OK,"CLEVELAND, OK",40027,18 to 49 years,Male,Missing,Hispanic/Latino,,,Missing,Missing,Probable Case,Unknown,No,Missing,No,,0.0,0.25806451612903225,0.03225806451612903
+2021-02,NJ,"OCEAN, NJ",34029,18 to 49 years,Male,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.05555555555555555
+2020-12,CA,"TEHAMA, CA",06103,18 to 49 years,Male,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.09090909090909091,1.0
+2020-12,CA,"SAN JOAQUIN, CA",06077,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,7.0,0.0,0.04316546762589928
+2020-12,NC,"MECKLENBURG, NC",37119,65+ years,Female,American Indian/Alaska Native,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.0
+2021-05,NY,"MONROE, NY",36055,0 - 17 years,Female,Black,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.052083333333333336
+2020-04,NY,"ORANGE, NY",36071,18 to 49 years,Female,Black,Hispanic/Latino,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.25316455696202533
+2020-11,NJ,"PASSAIC, NJ",34031,18 to 49 years,Female,Black,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.01
+2020-06,ID,"CASSIA, ID",16031,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-06,CA,"GLENN, CA",06021,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.16666666666666666,1.0
+2021-04,NH,"ROCKINGHAM, NH",33015,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,,0.0,0.0,0.046153846153846156
+2021-01,NC,"TRANSYLVANIA, NC",37175,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.8571428571428571
+2020-11,WI,"EAU CLAIRE, WI",55035,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.05,0.1
+2020-11,TN,"KNOX, TN",21121,18 to 49 years,Male,White,Non-Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,15.0,0.0,0.75
+2021-03,KY,"WOODFORD, KY",21239,0 - 17 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.875
+2020-11,VT,"BENNINGTON, VT",50003,18 to 49 years,,,,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2021-01,MN,"BELTRAMI, MN",27007,0 - 17 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.5,1.0
+2020-09,OK,"ADAIR, OK",40001,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,Yes,Missing,No,,15.0,1.0,1.0
+2020-11,NC,"CARTERET, NC",37031,18 to 49 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.15789473684210525
+2020-11,NC,"DARE, NC",37055,18 to 49 years,Female,,,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.8181818181818182
+2020-04,NY,"FULTON, NY",36035,18 to 49 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.3333333333333333
+2020-08,OH,"ROSS, OH",39141,18 to 49 years,Female,,,,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,0.23529411764705882
+2020-11,NH,"SULLIVAN, NH",33019,50 to 64 years,Female,,,,,Missing,Missing,Probable Case,Asymptomatic,Unknown,Unknown,No,,0.0,0.0,1.0
+2021-05,OR,"COLUMBIA, OR",41009,0 - 17 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.2
+2020-11,MN,"MEEKER, MN",27093,0 - 17 years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-12,KY,"JESSAMINE, KY",21113,18 to 49 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,,0.0,0.0,0.0
+2020-11,OR,"LINCOLN, OR",41041,50 to 64 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.4444444444444444,0.9444444444444444
+2020-06,MN,"LYON, MN",27083,50 to 64 years,Male,,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,1.0
+2021-03,OR,"LANE, OR",41039,18 to 49 years,Male,Black,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.03488372093023256,0.2441860465116279
+2020-12,MN,"GOODHUE, MN",27049,18 to 49 years,Female,Multiple/Other,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.2,1.0
+2020-09,OR,"KLAMATH, OR",41035,18 to 49 years,Female,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.1,0.35
+2020-11,MN,"CARLTON, MN",27017,18 to 49 years,Female,White,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.7142857142857143,1.0
+2020-07,CA,"SAN BENITO, CA",06069,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-11,CA,"SANTA CRUZ, CA",06087,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,0.0,0.0
+2020-04,MD,"BALTIMORE, MD",24005,18 to 49 years,Female,Missing,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.02336448598130841
+2020-12,ID,"ADA, ID",16001,50 to 64 years,Male,Multiple/Other,Hispanic/Latino,0.0,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-10,AR,"BENTON, AR",05007,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,0.0,0.12244897959183673,0.16326530612244897
+2020-06,NC,"JOHNSTON, NC",37101,0 - 17 years,Female,White,Hispanic/Latino,0.0,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.32
+2020-09,NC,"DURHAM, NC",37063,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,0.0
+2020-11,NC,"HENDERSON, NC",37089,18 to 49 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,0.07407407407407407
+2020-04,KS,"LYON, KS",20111,18 to 49 years,Female,White,Hispanic/Latino,1.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,1.0
+2020-07,AZ,"MOHAVE, AZ",04015,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.23255813953488372,0.11627906976744186
+2020-06,NC,"NEW HANOVER, NC",37129,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.0
+2020-05,WI,"RACINE, WI",55101,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.20454545454545456
+2020-11,KS,"RILEY, KS",20161,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,15.0,0.0,0.07142857142857142
+2020-12,NC,"STANLY, NC",37167,65+ years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,1.0
+2020-06,VA,"NORFOLK CITY, VA",51710,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,0.0
+2020-11,KY,"CARTER, KY",21043,18 to 49 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2020-10,KY,"WAYNE, KY",21231,18 to 49 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2020-10,NC,"SCOTLAND, NC",37165,0 - 17 years,Female,,,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.0,1.0
+2020-11,NY,"TOMPKINS, NY",36109,0 - 17 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.043478260869565216,0.30434782608695654
+2021-01,OK,"LOGAN, OK",40083,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,0.375,0.625
+2020-06,MI,"ST. JOSEPH, MI",26149,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-11,MN,"CROW WING, MN",27035,50 to 64 years,Female,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.125,1.0
+2021-01,MD,"CALVERT, MD",24009,18 to 49 years,Male,Unknown,Missing,,,Missing,Missing,Probable Case,Missing,Unknown,Missing,No,,0.0,0.0,0.7777777777777778
+2021-02,OR,"DOUGLAS, OR",41019,18 to 49 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,,0.0,0.5,0.5454545454545454
+2021-01,NC,"JACKSON, NC",37099,0 - 17 years,Female,American Indian/Alaska Native,,0.0,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.2222222222222222,1.0
+2020-11,MN,"CHISAGO, MN",27025,18 to 49 years,Male,American Indian/Alaska Native,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-11,TN,"LAUDERDALE, TN",47097,50 to 64 years,Male,Black,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,No,No,No,,15.0,0.0,1.0
+2020-11,CA,"SISKIYOU, CA",06093,18 to 49 years,Female,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,Yes,7.0,0.35714285714285715,1.0
+2020-08,OR,"YAMHILL, OR",41071,18 to 49 years,Female,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.058823529411764705,0.17647058823529413
+2020-11,MN,"MORRISON, MN",27097,0 - 17 years,Male,White,Missing,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.125,1.0
+2021-04,CO,"PUEBLO, CO",08101,0 - 17 years,Female,Missing,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,15.0,0.0,0.05454545454545454
+2020-05,NJ,"CUMBERLAND, NJ",34011,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Unknown,No,Yes,7.0,0.0,0.17647058823529413
+2020-06,CO,"EAGLE, CO",08037,18 to 49 years,Female,Missing,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-06,CA,"MERCED, CA",06047,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.14285714285714285
+2021-01,FL,"PALM BEACH, FL",12099,0 - 17 years,Female,Black,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.032640949554896145
+2020-12,CA,"COLUSA, CA",06011,0 - 17 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,0.4,1.0
+2020-12,NC,"IREDELL, NC",37097,0 - 17 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.18181818181818182
+2021-01,CA,"PLACER, CA",06061,0 - 17 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.03529411764705882,0.16470588235294117
+2020-11,OK,"CANADIAN, OK",40017,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Probable Case,Unknown,No,Missing,No,,0.0,0.896551724137931,0.2413793103448276
+2020-11,WI,"FOND DU LAC, WI",55039,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.3
+2020-06,AL,"JEFFERSON, AL",01073,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,7.0,0.0,0.012269938650306749
+2021-02,NC,"MONTGOMERY, NC",37123,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,1.0
+2021-04,OH,"MONTGOMERY, OH",39113,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,7.0,0.0,0.006535947712418301
+2020-06,AL,"SHELBY, AL",01117,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.125
+2020-11,MN,"SHERBURNE, MN",27141,18 to 49 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.2727272727272727
+2020-12,NJ,"SUSSEX, NJ",34037,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.3170731707317073
+2020-08,CA,"SUTTER, CA",06101,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.0,0.23809523809523808
+2021-04,OR,"WASHINGTON, OR",41067,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.019230769230769232
+2020-05,NC,"WAYNE, NC",37191,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.0,0.15384615384615385
+2020-11,MN,"WASHINGTON, MN",27163,50 to 64 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.14
+2020-08,MI,"ALLEGAN, MI",26005,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.08333333333333333,0.7916666666666666
+2020-07,NC,"FRANKLIN, NC",37069,18 to 49 years,Male,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,0.0,0.0,0.8333333333333334
+2020-10,KY,"FLOYD, KY",21071,,,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Yes,Missing,No,,15.0,0.0,1.0
+2020-08,KS,"BARTON, KS",20009,0 - 17 years,,,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,No,7.0,0.0,1.0
+2020-11,MI,"HILLSDALE, MI",26059,0 - 17 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,7.0,0.0,1.0
+2020-03,IN,"JENNINGS, IN",18129,50 to 64 years,,,,,0.0,Clinical evaluation,Unknown,Probable Case,Symptomatic,Yes,Yes,No,,0.0,0.0,0.8571428571428571
+2021-03,NY,"CAYUGA, NY",36011,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.21052631578947367,0.42105263157894735
+2020-12,OH,"HOLMES, OH",39075,0 - 17 years,Female,,,,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,0.0,0.0,1.0
+2020-09,NY,"COLUMBIA, NY",36021,18 to 49 years,Female,,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-07,NY,"GENESEE, NY",36037,18 to 49 years,Female,Missing,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.13333333333333333,1.0
+2020-11,KY,"MADISON, KY",21151,18 to 49 years,Female,Unknown,Missing,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,0.2631578947368421
+2020-08,OH,"GALLIA, OH",39053,50 to 64 years,Female,,,,0.0,Contact tracing of case patient,Yes,Laboratory-confirmed case,Symptomatic,Yes,No,No,,7.0,0.0,1.0
+2020-05,NY,"GREENE, NY",36039,50 to 64 years,Female,Missing,,28.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-10,KY,"BARREN, KY",21009,65+ years,Female,Missing,Missing,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,15.0,0.0,1.0
+2020-11,KS,"MIAMI, KS",20121,0 - 17 years,Male,,,,,Missing,Missing,Probable Case,Unknown,No,Unknown,No,,0.0,0.0,1.0
+2020-09,OR,"MALHEUR, OR",41045,18 to 49 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.25,0.625
+2021-01,KY,"MUHLENBERG, KY",21177,18 to 49 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2020-11,MN,"PINE, MN",27115,18 to 49 years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.5,1.0
+2020-10,AL,"TUSCALOOSA, AL",01125,18 to 49 years,Female,Black,Missing,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,7.0,0.0,0.0425531914893617
+2021-01,ME,"YORK, ME",23031,18 to 49 years,Female,Black,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.4878048780487805
+2020-11,MN,"OTTER TAIL, MN",27111,18 to 49 years,Female,Multiple/Other,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.058823529411764705,1.0
+2020-11,IN,"DELAWARE, IN",18035,65+ years,Female,White,Missing,,,Missing,Missing,Laboratory-confirmed case,Missing,Yes,Missing,No,,15.0,0.0,0.06666666666666667
+2020-11,IN,"SHELBY, IN",18145,50 to 64 years,Male,White,Missing,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,0.0,0.0,0.8
+2021-04,AZ,"MARICOPA, AZ",04013,0 - 17 years,Female,American Indian/Alaska Native,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.07860262008733625,0.0054585152838427945
+2021-01,NC,"ROBESON, NC",37155,18 to 49 years,Male,American Indian/Alaska Native,Hispanic/Latino,0.0,,Missing,Missing,Probable Case,Unknown,Unknown,Unknown,No,,15.0,0.0,0.5483870967741935
+2020-11,MT,"YELLOWSTONE, MT",30111,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0625,0.09375
+2021-01,AR,"PULASKI, AR",05119,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,7.0,0.0,0.031578947368421054
+2020-12,NC,"RUTHERFORD, NC",37161,0 - 17 years,Female,White,Hispanic/Latino,0.0,,Missing,Unknown,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,15.0,0.0,0.3076923076923077
+2020-05,KS,"SEWARD, KS",20175,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Multiple,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,1.0
+2020-05,VA,"ACCOMACK, VA",51001,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,7.0,0.0,0.9090909090909091
+2020-06,NC,"BUNCOMBE, NC",37021,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.05357142857142857
+2020-10,NC,"CLEVELAND, NC",37045,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,No,,15.0,0.0,0.3181818181818182
+2020-11,NC,"LINCOLN, NC",37109,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.6111111111111112
+2021-01,MI,"OTTAWA, MI",26139,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.09433962264150944
+2020-05,VA,"STAFFORD, VA",51179,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.1111111111111111
+2020-04,NC,"CHATHAM, NC",37037,18 to 49 years,Male,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.7692307692307693
+2020-05,VA,"FREDERICK, VA",51069,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.07142857142857142
+2020-05,NC,"GRANVILLE, NC",37077,18 to 49 years,Male,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,7.0,0.0,0.9230769230769231
+2020-06,CT,"NEW HAVEN, CT",09009,,,,,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,0.0,0.0,0.0
+2021-04,OH,"MERCER, OH",39107,0 - 17 years,,,,0.0,0.0,Contact tracing of case patient,Yes,Probable Case,Symptomatic,No,No,No,,0.0,0.0,1.0
+2020-08,KY,"MERCER, KY",21167,18 to 49 years,,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,No,,7.0,0.0,1.0
+2020-11,OK,"CREEK, OK",40037,0 - 17 years,Female,,,,,Missing,Missing,Probable Case,Unknown,No,Missing,No,,7.0,1.0,0.47619047619047616
+2021-03,VA,"HENRY, VA",51089,0 - 17 years,Female,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,7.0,0.0,0.14285714285714285
+2020-12,OK,"OTTAWA, OK",40115,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,15.0,1.0,1.0
+2020-11,KY,"PERRY, KY",21193,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2020-11,NC,"ALEXANDER, NC",37003,18 to 49 years,Female,,,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.7142857142857143
+2020-11,CA,"AMADOR, CA",06005,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.3333333333333333,1.0
+2021-03,NC,"ASHE, NC",37009,18 to 49 years,Female,,,0.0,,Missing,Unknown,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,7.0,0.0,1.0
+2021-04,VT,"WINDHAM, VT",50025,18 to 49 years,Female,,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,0.0,0.0,1.0
+2021-01,NY,"OSWEGO, NY",36075,0 - 17 years,Male,Missing,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.3448275862068966
+2020-10,FL,"BAKER, FL",12003,18 to 49 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-09,ND,"STARK, ND",38089,18 to 49 years,Male,Missing,Missing,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-07,OK,"PONTOTOC, OK",40123,18 to 49 years,Female,American Indian/Alaska Native,,,,Missing,Missing,Laboratory-confirmed case,Unknown,Yes,Missing,No,,7.0,1.0,1.0
+2020-12,NJ,"SOMERSET, NJ",34035,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.0
+2021-01,CA,"SACRAMENTO, CA",06067,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.0,0.031545741324921134
+2020-09,NY,"SUFFOLK, NY",36103,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.030959752321981424
+2020-11,FL,"BROWARD, FL",12011,18 to 49 years,Female,Asian,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.024930747922437674,0.0
+2021-01,OH,"HAMILTON, OH",39061,0 - 17 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Yes,Probable Case,Symptomatic,No,No,No,,7.0,0.0,0.009009009009009009
+2020-12,CA,"NAPA, CA",06055,0 - 17 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,No,Missing,No,,0.0,0.0,0.225
+2020-10,NC,"BURKE, NC",37023,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,15.0,0.0,0.1111111111111111
+2020-12,OK,"CARTER, OK",40019,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Probable Case,Unknown,No,Missing,No,,7.0,1.0,1.0
+2021-04,FL,"PUTNAM, FL",12107,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,15.0,0.0,1.0
+2021-03,FL,"ST. JOHNS, FL",12109,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.075
+2020-06,IA,"JOHNSON, IA",19103,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Clinical evaluation,Unknown,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,7.0,0.0,0.08333333333333333
+2021-01,KY,"MEADE, KY",21163,18 to 49 years,,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,No,,0.0,0.0,0.625
+2021-02,MI,"CASS, MI",26027,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,7.0,0.36363636363636365,0.5454545454545454
+2021-04,NC,"HAYWOOD, NC",37087,0 - 17 years,Female,,,0.0,0.0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,,0.0,0.0625,0.25
+2020-07,MD,"WORCESTER, MD",24047,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.3125
+2021-02,KS,"LEAVENWORTH, KS",20103,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.3125
+2020-12,NY,"LEWIS, NY",36049,18 to 49 years,Female,Missing,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-07,KS,"MONTGOMERY, KS",20125,18 to 49 years,Female,,,,0.0,Missing,Missing,Probable Case,Symptomatic,Unknown,Unknown,No,,7.0,0.38461538461538464,1.0
+2021-03,ME,"PENOBSCOT, ME",23019,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.30434782608695654,0.5217391304347826
+2021-02,KY,"CLARK, KY",21049,18 to 49 years,Male,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Yes,Missing,No,,0.0,0.0,0.1
+2021-05,PA,"ERIE, PA",42049,0 - 17 years,Female,Black,,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,0.22535211267605634
+2020-11,KY,"MCCRACKEN, KY",21145,18 to 49 years,Male,Black,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,7.0,0.0,0.0
+2021-03,NH,"STRAFFORD, NH",33017,0 - 17 years,Female,Multiple/Other,,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,Unknown,Unknown,No,,0.0,0.0,0.12
+2021-02,VT,"CHITTENDEN, VT",50007,18 to 49 years,Female,Multiple/Other,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.17142857142857143
+2020-11,MN,"MOWER, MN",27099,18 to 49 years,Female,White,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.2727272727272727
+2021-01,CA,"SAN MATEO, CA",06081,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.0,0.01910828025477707
+2020-06,NJ,"ATLANTIC, NJ",34001,18 to 49 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,No,,0.0,0.0,0.057971014492753624
+2021-04,NY,"ALBANY, NY",36001,18 to 49 years,Male,Missing,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.08
+2020-12,NC,"GASTON, NC",37071,18 to 49 years,Female,Black,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.07692307692307693
+2021-04,NJ,"ESSEX, NJ",34013,50 to 64 years,Female,Black,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.0
+2020-10,AR,"CRAIGHEAD, AR",05031,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,7.0,0.0,0.058823529411764705
+2020-12,CA,"NEVADA, CA",06057,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.4
+2020-04,TN,"ROBERTSON, TN",47147,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,0.5714285714285714
+2020-11,NC,"VANCE, NC",37181,18 to 49 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,15.0,0.0,1.0
+2020-08,KY,"GRAYSON, KY",21085,0 - 17 years,,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2021-01,NC,"MARTIN, NC",37117,0 - 17 years,,,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,15.0,0.0,1.0
+2021-03,VT,"FRANKLIN, VT",50011,18 to 49 years,,,,0.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2021-04,OR,"CROOK, OR",41013,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-07,OK,"MUSKOGEE, OK",40101,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,No,,15.0,1.0,0.125
+2020-12,ME,"OXFORD, ME",23017,0 - 17 years,Female,,,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,0.0,0.058823529411764705,1.0
+2020-12,OR,"POLK, OR",41053,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.08333333333333333,0.6666666666666666
+2020-08,NC,"RICHMOND, NC",37153,0 - 17 years,Female,,,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.0,0.18181818181818182
+2020-12,NC,"WILKES, NC",37193,0 - 17 years,Female,,,1.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,1.0
+2020-04,NC,"BLADEN, NC",37017,18 to 49 years,Female,,,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.0,1.0
+2021-04,OR,"JOSEPHINE, OR",41033,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.3125
+2020-03,MS,"MADISON, MS",28089,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,,0.0,0.0,0.3333333333333333
+2021-02,OK,"POTTAWATOMIE, OK",40125,18 to 49 years,Female,,,,,Missing,Missing,Probable Case,Unknown,No,Missing,No,,7.0,1.0,0.125
+2020-11,IN,"VANDERBURGH, IN",18163,18 to 49 years,Female,Missing,Missing,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,7.0,0.0,0.02040816326530612
+2021-01,ME,"AROOSTOOK, ME",23003,0 - 17 years,Male,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,7.0,0.375,1.0
+2020-10,OH,"LOGAN, OH",39091,0 - 17 years,Male,,,,0.0,Clinical evaluation,Yes,Probable Case,Symptomatic,No,No,No,,0.0,0.0,1.0
+2020-12,NY,"STEUBEN, NY",36101,0 - 17 years,Male,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.9666666666666667
+2020-05,MS,"RANKIN, MS",28121,18 to 49 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,,0.0,0.0,0.1111111111111111
+2021-04,NC,"EDGECOMBE, NC",37065,50 to 64 years,Female,Black,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,15.0,0.0,0.5714285714285714
+2020-10,MN,"CLAY, MN",27027,18 to 49 years,Female,White,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.23076923076923078
+2020-12,CA,"YOLO, CA",06113,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.024390243902439025,0.07317073170731707
+2021-01,KS,"JOHNSON, KS",20091,18 to 49 years,Male,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.007692307692307693
+2021-01,CA,"ALAMEDA, CA",06001,18 to 49 years,Female,Asian,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,,0.0,0.0,0.0
+2020-12,MI,"OAKLAND, MI",26125,18 to 49 years,Male,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.026627218934911243
+2020-05,NC,"DUPLIN, NC",37061,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.0,1.0
+2020-07,MD,"DORCHESTER, MD",24019,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-04,CO,"MORGAN, CO",08087,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2021-01,SC,"CHARLESTON, SC",45019,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.05813953488372093
+2020-12,OH,"DEFIANCE, OH",39039,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Clinical evaluation,Unknown,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,0.0,0.0,1.0
+2020-11,NC,"ROCKINGHAM, NC",37157,18 to 49 years,Male,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,15.0,0.0,1.0
+2020-06,TN,"SUMNER, TN",47165,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,0.0,0.0,0.2619047619047619
+2020-04,NH,"BELKNAP, NH",33001,,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,1.0
+2020-07,CO,"ROUTT, CO",08107,18 to 49 years,,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-11,NH,"COOS, NH",33007,0 - 17 years,Female,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,,7.0,0.0,1.0
+2020-11,KY,"ANDERSON, KY",21005,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.8
+2020-11,MN,"CASS, MN",27021,18 to 49 years,Female,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.5,1.0
+2020-07,NY,"CHEMUNG, NY",36015,18 to 49 years,Female,Missing,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.045454545454545456
+2020-08,NC,"CHEROKEE, NC",37039,18 to 49 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,15.0,0.5714285714285714,1.0
+2020-08,KS,"FRANKLIN, KS",20059,18 to 49 years,Female,,,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,No,,0.0,0.0,1.0
+2020-09,MD,"QUEEN ANNE'S, MD",24035,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.5833333333333334
+2020-11,KY,"SCOTT, KY",21209,18 to 49 years,Female,,,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,0.0,0.0,0.07142857142857142
+2020-04,NY,"WARREN, NY",36113,18 to 49 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.42105263157894735
+2020-11,OH,"WASHINGTON, OH",39167,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.8125
+2021-02,NY,"CHAUTAUQUA, NY",36013,50 to 64 years,Female,Missing,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.05714285714285714,0.2857142857142857
+2020-11,KY,"CALLOWAY, KY",21035,18 to 49 years,Male,Missing,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-11,KY,"OHIO, KY",21183,18 to 49 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2021-01,NC,"STOKES, NC",37169,18 to 49 years,Male,,,1.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.4444444444444444
+2021-03,NY,"SCHENECTADY, NY",36093,18 to 49 years,Male,Asian,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.023255813953488372
+2020-06,SC,"SALUDA, SC",45081,18 to 49 years,Female,Black,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-12,NY,"CHENANGO, NY",36017,50 to 64 years,Female,Multiple/Other,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,1.0
+2020-11,MN,"DAKOTA, MN",27037,0 - 17 years,Female,Unknown,Hispanic/Latino,0.0,,Missing,Missing,Probable Case,Missing,Missing,Missing,No,,0.0,0.010526315789473684,0.08421052631578947
+2021-01,NJ,"MERCER, NJ",34021,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-12,NY,"ONONDAGA, NY",36067,18 to 49 years,Male,Missing,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.04285714285714286,0.05714285714285714
+2020-04,NJ,"SALEM, NJ",34033,18 to 49 years,Male,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.4583333333333333
+2021-01,NC,"UNION, NC",37179,18 to 49 years,Male,Black,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.07317073170731707
+2021-04,NJ,"GLOUCESTER, NJ",34015,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-12,KS,"SEDGWICK, KS",20173,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,1.0,0.0,Laboratory reported,Unknown,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,0.0,0.0,0.024193548387096774
+2020-08,FL,"SEMINOLE, FL",12117,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-12,OH,"LAKE, OH",39085,18 to 49 years,Male,Multiple/Other,Hispanic/Latino,,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.01694915254237288
+2020-11,AZ,"COCONINO, AZ",04005,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.42857142857142855,0.39285714285714285
+2020-07,NC,"WILSON, NC",37195,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.0,0.21052631578947367
+2020-11,NC,"BRUNSWICK, NC",37019,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Missing,Yes,Probable Case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,0.42424242424242425
+2020-11,OK,"BRYAN, OK",40013,18 to 49 years,Male,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,7.0,1.0,1.0
+2020-11,OK,"CHEROKEE, OK",40021,18 to 49 years,Male,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,15.0,1.0,0.8888888888888888
+2021-02,PA,"MONROE, PA",12087,65+ years,Female,White,Non-Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,,0.0,0.0,0.6451612903225806
+2021-05,MI,"DICKINSON, MI",26043,0 - 17 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2021-04,ME,"FRANKLIN, ME",23007,18 to 49 years,,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.1111111111111111,1.0
+2020-12,IN,"WAYNE, IN",18177,0 - 17 years,Female,Missing,Missing,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,7.0,0.0,0.23529411764705882
+2020-05,NC,"MACON, NC",37113,18 to 49 years,Female,,,0.0,,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,7.0,0.0,1.0
+2020-05,KY,"OLDHAM, KY",21185,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,No,,0.0,0.0,0.07142857142857142
+2020-12,NH,"CHESHIRE, NH",33005,65+ years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,Unknown,Unknown,No,,0.0,0.0,1.0
+2020-11,NV,"CHURCHILL, NV",32001,65+ years,Female,,,0.0,0.0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,0.0,0.7142857142857143,1.0
+2020-09,NC,"WATAUGA, NC",37189,65+ years,Female,,,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,15.0,0.0,1.0
+2020-12,ME,"CUMBERLAND, ME",23005,18 to 49 years,Male,Asian,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.15151515151515152
+2021-01,KS,"GEARY, KS",20061,18 to 49 years,Male,Asian,,,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Unknown,No,No,,0.0,0.0,0.0
+2020-10,MN,"DOUGLAS, MN",27041,18 to 49 years,Female,Multiple/Other,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-08,NV,"ELKO, NV",32007,18 to 49 years,Female,Multiple/Other,,0.0,0.0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.42857142857142855,1.0
+2020-11,MN,"KANDIYOHI, MN",27067,18 to 49 years,Female,Multiple/Other,Missing,1.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,1.0
+2020-11,MN,"ST. LOUIS, MN",27137,0 - 17 years,Male,Multiple/Other,Missing,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.07575757575757576,0.4090909090909091
+2021-01,NC,"LENOIR, NC",37107,18 to 49 years,Male,Multiple/Other,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,15.0,0.0,0.13333333333333333
+2020-12,OR,"LINN, OR",41043,18 to 49 years,Male,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.047619047619047616,0.5238095238095238
+2020-07,OH,"FRANKLIN, OH",39049,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,0.0
+2020-08,CA,"MENDOCINO, CA",06045,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.5,0.65
+2020-11,NC,"ONSLOW, NC",37133,18 to 49 years,Female,Unknown,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.21875
+2020-05,IA,"POLK, IA",19153,18 to 49 years,Female,Missing,Hispanic/Latino,0.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,0.02040816326530612
+2020-06,AZ,"SANTA CRUZ, AZ",04023,18 to 49 years,Female,Missing,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,15.0,0.0,0.2
+2020-06,FL,"ST. LUCIE, FL",12111,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.022727272727272728,0.0
+2020-06,NC,"GUILFORD, NC",37081,18 to 49 years,Male,Unknown,Hispanic/Latino,0.0,,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,7.0,0.0,0.008403361344537815
+2020-12,CA,"BUTTE, CA",06007,50 to 64 years,Male,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,No,No,,7.0,0.1568627450980392,0.0784313725490196
+2021-01,CA,"SAN BERNARDINO, CA",06071,0 - 17 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,No,,0.0,0.02168021680216802,0.08672086720867209
+2021-01,CA,"VENTURA, CA",06111,0 - 17 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.0,0.034482758620689655
+2020-04,PA,"LEHIGH, PA",42077,18 to 49 years,Female,Black,Hispanic/Latino,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.013157894736842105
+2021-03,FL,"PINELLAS, FL",12103,0 - 17 years,Female,Multiple/Other,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.0
+2020-06,VA,"CHESAPEAKE CITY, VA",51550,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-12,FL,"MANATEE, FL",12081,0 - 17 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.02564102564102564
+2020-06,NC,"CALDWELL, NC",37027,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.058823529411764705
+2020-10,NC,"CATAWBA, NC",37035,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.0967741935483871
+2020-07,WI,"DANE, WI",55025,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.009345794392523364,0.07476635514018691
+2020-07,NC,"NASH, NC",37127,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,0.2777777777777778
+2020-07,MI,"LEELANAU, MI",26089,,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.16666666666666666,0.6666666666666666
+2020-12,MI,"WEXFORD, MI",26165,0 - 17 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2021-03,NH,"GRAFTON, NH",33009,50 to 64 years,,,,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,Unknown,Unknown,No,,0.0,0.0,0.7368421052631579
+2020-05,KY,"ALLEN, KY",21003,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-06,FL,"GADSDEN, FL",12039,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,15.0,0.0,0.6666666666666666
+2020-07,ID,"JEROME, ID",16053,18 to 49 years,Female,,,,0.0,Contact tracing of case patient,Yes,Probable Case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-08,KY,"GRAVES, KY",21083,50 to 64 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2020-09,NC,"PASQUOTANK, NC",37139,50 to 64 years,Female,,,0.0,,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,1.0
+2020-09,NC,"PERSON, NC",37145,65+ years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,7.0,0.0,1.0
+2020-09,NC,"HALIFAX, NC",37083,18 to 49 years,Female,Black,,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,15.0,0.0,1.0
+2020-10,MN,"TODD, MN",27153,18 to 49 years,Female,White,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-11,MN,"DODGE, MN",27039,18 to 49 years,Male,White,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-11,MN,"WABASHA, MN",27157,18 to 49 years,Male,White,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-07,CA,"SAN FRANCISCO, CA",06075,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-11,CA,"SONOMA, CA",06097,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.020202020202020204,0.09090909090909091
+2020-10,NY,"WESTCHESTER, NY",36119,18 to 49 years,Female,Missing,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.0
+2020-09,OK,"PAYNE, OK",40119,18 to 49 years,Male,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,15.0,0.5294117647058824,0.29411764705882354
+2021-01,CA,"LOS ANGELES, CA",06037,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,No,,7.0,0.0,0.005972696245733789
+2020-03,NJ,"HUDSON, NJ",34017,18 to 49 years,Female,Black,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,7.0,0.0,0.0
+2021-02,CA,"HUMBOLDT, CA",06023,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.23333333333333334,0.4
+2021-01,OK,"COMANCHE, OK",40031,0 - 17 years,Female,White,Hispanic/Latino,,,Missing,Missing,Probable Case,Unknown,No,Missing,No,,15.0,1.0,0.125
+2020-04,NJ,"HUNTERDON, NJ",34019,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,No,,0.0,0.0,0.15384615384615385
+2021-03,MI,"ST. CLAIR, MI",26147,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.22448979591836735
+2020-10,SC,"YORK, SC",45091,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.021739130434782608,0.15217391304347827
+2020-08,ID,"JEFFERSON, ID",16051,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Routine surveillance,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2021-05,TN,"SHELBY, TN",48419,18 to 49 years,Female,Black,Non-Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,15.0,0.0,1.0
+2020-05,KY,"NELSON, KY",21179,,,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,1.0
+2020-04,ME,"KENNEBEC, ME",23011,50 to 64 years,,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.7741935483870968
+2021-05,KY,"HOPKINS, KY",21107,0 - 17 years,Female,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2020-10,NY,"TIOGA, NY",36107,0 - 17 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.7
+2020-07,PA,"HUNTINGDON, PA",42061,18 to 49 years,Female,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,,0.0,0.0,1.0
+2021-05,NH,"MERRIMACK, NH",33013,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,Yes,0.0,0.0,0.4444444444444444
+2021-03,NY,"ORLEANS, NY",36073,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2021-02,NC,"POLK, NC",37149,18 to 49 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,1.0
+2020-12,MT,"SILVER BOW, MT",30093,50 to 64 years,Female,Missing,Missing,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,7.0,0.0,0.0
+2020-11,PA,"BRADFORD, PA",42015,18 to 49 years,Male,,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,7.0,0.0,1.0
+2021-01,NC,"HOKE, NC",37093,18 to 49 years,Female,American Indian/Alaska Native,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,7.0,0.0,0.2222222222222222
+2021-02,CA,"KINGS, CA",06031,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.07407407407407407,0.18518518518518517
+2020-08,CA,"MADERA, CA",06039,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.08695652173913043,0.4782608695652174
+2020-12,CA,"MONTEREY, CA",06053,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,0.0,0.10752688172043011
+2021-01,VA,"ARLINGTON, VA",51013,18 to 49 years,Female,Missing,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-08,NH,"HILLSBOROUGH, NH",33011,18 to 49 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,0.0,0.0,0.13953488372093023
+2020-05,VA,"MANASSAS CITY, VA",51683,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-03,NY,"PUTNAM, NY",36079,18 to 49 years,Female,Unknown,Hispanic/Latino,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.10526315789473684
+2020-12,NJ,"CAMDEN, NJ",34007,50 to 64 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-04,NJ,"MORRIS, NJ",34027,50 to 64 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.02
+2021-04,NJ,"BERGEN, NJ",34003,18 to 49 years,Female,Asian,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.0
+2020-06,NC,"HARNETT, NC",37085,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,0.6296296296296297
+2020-12,AR,"CARROLL, AR",05015,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,7.0,0.0,1.0
+2021-01,KS,"FINNEY, KS",20055,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,No,No,No,,0.0,0.0,0.08333333333333333
+2020-09,ID,"MADISON, ID",16065,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Routine surveillance,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,15.0,0.0,0.0
+2020-06,KS,"SHAWNEE, KS",20177,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,0.0,0.0,0.023255813953488372
+2020-08,OH,"FAIRFIELD, OH",39045,0 - 17 years,Female,,,,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,0.0,0.0,0.17857142857142858
+2020-12,KY,"BOYLE, KY",21021,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-09,OH,"CLINTON, OH",39027,18 to 49 years,Female,,,,0.0,Clinical evaluation,Unknown,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,7.0,0.0,1.0
+2020-10,VA,"HARRISONBURG CITY, VA",51660,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,0.0
+2020-05,NY,"MADISON, NY",36053,18 to 49 years,Female,Missing,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0625,0.4375
+2020-11,KS,"POTTAWATOMIE, KS",20149,18 to 49 years,Female,,,1.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,0.75
+2020-12,KY,"TAYLOR, KY",21217,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,No,,7.0,0.0,1.0
+2020-09,NC,"CASWELL, NC",37033,50 to 64 years,Female,,,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,Yes,No,No,,7.0,0.0,1.0
+2020-11,MN,"HUBBARD, MN",27057,18 to 49 years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.2857142857142857,1.0
+2021-01,KY,"MARSHALL, KY",21157,18 to 49 years,Male,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-11,MN,"ITASCA, MN",27061,0 - 17 years,Female,White,Missing,1.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.45454545454545453,1.0
+2021-03,CA,"SANTA CLARA, CA",06085,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-06,CA,"SOLANO, CA",06095,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,No,Missing,No,,0.0,0.0,0.041666666666666664
+2021-01,CA,"ORANGE, CA",06059,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-12,CA,"SAN DIEGO, CA",06073,18 to 49 years,Female,Asian,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.03827751196172249,0.01594896331738437
+2020-07,GA,"HALL, GA",13139,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.05555555555555555
+2020-06,NC,"ALAMANCE, NC",37001,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,No,,7.0,0.0,0.08333333333333333
+2020-10,FL,"HARDEE, FL",12049,0 - 17 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2021-04,NJ,"WARREN, NJ",34041,0 - 17 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.30434782608695654
+2020-12,KS,"BUTLER, KS",20015,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,,0.0,0.0,0.8461538461538461
+2020-11,MN,"POLK, MN",27119,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.2,0.7
+2020-06,FL,"SARASOTA, FL",12115,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-10,ID,"TWIN FALLS, ID",16083,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Clinical evaluation,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,No,,0.0,0.0,0.35714285714285715
+2020-12,KS,"SALINE, KS",20169,0 - 17 years,Male,White,Hispanic/Latino,0.0,0.0,Multiple,Yes,Probable Case,Symptomatic,No,No,No,,0.0,0.0,0.0
+2021-01,KS,"COWLEY, KS",20035,18 to 49 years,Male,White,Hispanic/Latino,,,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,7.0,0.18181818181818182,1.0
+2020-09,IA,"WAPELLO, IA",19179,18 to 49 years,Male,White,Hispanic/Latino,1.0,0.0,Clinical evaluation,Unknown,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,0.18181818181818182
+2020-05,CT,"TOLLAND, CT",09013,,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.13793103448275862
+2021-02,VA,"PAGE, VA",51139,0 - 17 years,,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-11,MI,"ROSCOMMON, MI",26143,0 - 17 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,7.0,0.0,1.0
+2020-08,MN,"LE SUEUR, MN",27079,0 - 17 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.8333333333333334
+2021-02,MI,"MIDLAND, MI",26111,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.10526315789473684,0.2631578947368421
+2021-03,FL,"SUMTER, FL",12119,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.5789473684210527
+2020-09,PA,"CUMBERLAND, PA",42041,18 to 49 years,Female,,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,0.0,0.0,0.12244897959183673
+2021-01,IN,"GRANT, IN",18053,18 to 49 years,Female,Missing,Missing,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,7.0,0.0,0.125
+2020-11,MN,"NOBLES, MN",27105,18 to 49 years,Female,,,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,1.0
+2020-07,NC,"YADKIN, NC",37197,18 to 49 years,Female,,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,1.0
+2020-12,KY,"LETCHER, KY",21133,50 to 64 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,15.0,0.0,1.0
+2020-08,KS,"RENO, KS",20155,18 to 49 years,Male,,,0.0,,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,7.0,0.0,0.23529411764705882
+2020-11,MN,"MCLEOD, MN",27085,50 to 64 years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-12,KS,"SUMNER, KS",20191,50 to 64 years,Male,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,,0.0,0.3333333333333333,0.8333333333333334
+2020-11,MN,"MILLE LACS, MN",27095,65+ years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.42857142857142855,1.0
+2020-11,OR,"JEFFERSON, OR",41031,50 to 64 years,Female,American Indian/Alaska Native,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.5,1.0
+2020-04,MN,"STEARNS, MN",27145,18 to 49 years,Female,Black,Missing,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,Yes,0.0,0.0,0.3793103448275862
+2021-02,ME,"ANDROSCOGGIN, ME",23001,18 to 49 years,Male,Black,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.2857142857142857
+2020-11,OR,"BENTON, OR",41003,18 to 49 years,Male,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.0
+2021-01,KY,"LAUREL, KY",21125,18 to 49 years,Male,Multiple/Other,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,15.0,0.0,0.15384615384615385
+2020-12,MN,"BENTON, MN",27009,0 - 17 years,Female,White,Missing,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.3333333333333333
+2020-11,MN,"WINONA, MN",27169,18 to 49 years,Female,White,Missing,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.2
+2020-12,VA,"TAZEWELL, VA",51185,18 to 49 years,Male,White,Missing,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,15.0,0.0,0.6363636363636364
+2020-06,AZ,"YUMA, AZ",04027,0 - 17 years,Female,Missing,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,15.0,0.10909090909090909,0.12727272727272726
+2020-08,OK,"OKLAHOMA, OK",40109,18 to 49 years,Female,Missing,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,No,,7.0,0.0995850622406639,0.0
+2020-07,NC,"WAKE, NC",37183,18 to 49 years,Female,Unknown,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.0106951871657754
+2020-08,CA,"LASSEN, CA",06035,18 to 49 years,Male,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,Missing,Missing,No,,7.0,0.3333333333333333,1.0
+2021-02,CA,"RIVERSIDE, CA",06065,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.1479028697571744,0.026490066225165563
+2021-04,NJ,"MONMOUTH, NJ",34025,18 to 49 years,Female,Black,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.006944444444444444
+2020-12,MN,"ANOKA, MN",27003,0 - 17 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.060240963855421686
+2020-06,FL,"BREVARD, FL",12009,0 - 17 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.008849557522123894
+2020-06,NC,"ROWAN, NC",37159,0 - 17 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,0.13333333333333333
+2020-10,MI,"GENESEE, MI",26049,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.08396946564885496
+2020-06,FL,"HENDRY, FL",12051,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,15.0,0.14285714285714285,0.8571428571428571
+2020-04,VA,"ROCKINGHAM, VA",51165,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.5263157894736842
+2020-04,NC,"SAMPSON, NC",37163,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,1.0
+2021-01,AZ,"GILA, AZ",04007,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,15.0,0.5625,1.0
+2020-06,TN,"LOUDON, TN",47105,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,0.1
+2020-11,MN,"WRIGHT, MN",27171,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.7058823529411765
+2020-10,KY,"LINCOLN, KY",21137,0 - 17 years,,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,15.0,0.0,1.0
+2020-06,UT,"SANPETE, UT",49039,18 to 49 years,,,,1.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,1.0
+2020-08,ME,"SOMERSET, ME",23025,18 to 49 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.058823529411764705,1.0
+2021-01,NH,"CARROLL, NH",33003,50 to 64 years,,,,,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,Unknown,Unknown,No,,0.0,0.0,1.0
+2020-12,NY,"CORTLAND, NY",36023,0 - 17 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.25
+2020-12,NY,"DELAWARE, NY",36025,0 - 17 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-12,OH,"FAYETTE, OH",39047,0 - 17 years,Female,,,,0.0,Multiple,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,1.0
+2020-07,NY,"CATTARAUGUS, NY",36009,18 to 49 years,Female,Missing,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.47619047619047616,1.0
+2020-11,OH,"DARKE, OH",39037,18 to 49 years,Female,,,,0.0,Contact tracing of case patient,Unknown,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,1.0
+2020-09,KY,"FRANKLIN, KY",21073,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,,0.0,0.0,0.0
+2021-04,OH,"GUERNSEY, OH",39059,18 to 49 years,Female,,,0.0,0.0,Clinical evaluation,Yes,Probable Case,Symptomatic,No,No,No,Yes,7.0,0.0,1.0
+2020-05,NY,"MONTGOMERY, NY",36057,18 to 49 years,Female,Missing,,21.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.875
+2021-01,KY,"WHITLEY, KY",21235,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,,15.0,0.0,0.625
+2020-11,OK,"SEQUOYAH, OK",40135,50 to 64 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,15.0,1.0,0.8888888888888888
+2021-02,NC,"CRAVEN, NC",37049,0 - 17 years,Female,Black,,0.0,,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,7.0,0.0,0.3333333333333333
+2021-04,NC,"DAVIDSON, NC",37057,0 - 17 years,Female,Black,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,7.0,0.0,0.058823529411764705
+2020-07,SC,"FAIRFIELD, SC",45039,0 - 17 years,Female,Black,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,0.8
+2020-11,MN,"BLUE EARTH, MN",27013,18 to 49 years,Female,Black,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.1875
+2021-04,NY,"ST. LAWRENCE, NY",36089,18 to 49 years,Male,Black,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,15.0,0.07142857142857142,1.0
+2021-03,CA,"DEL NORTE, CA",06015,0 - 17 years,Male,Multiple/Other,,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,15.0,0.5714285714285714,1.0
+2021-03,VA,"CHARLOTTESVILLE CITY, VA",51540,18 to 49 years,Female,White,Missing,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,15.0,0.0,0.0
+2020-12,MN,"ISANTI, MN",27059,18 to 49 years,Female,White,Missing,0.0,0.0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,No,,0.0,0.0,1.0
+2020-07,CA,"MARIN, CA",06041,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,0.0,0.03636363636363636
+2020-08,CA,"SANTA BARBARA, CA",06083,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.011111111111111112,0.06666666666666667
+2020-07,OK,"TULSA, OK",40143,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,7.0,1.0,0.005714285714285714
+2020-06,KS,"CRAWFORD, KS",20037,18 to 49 years,Male,Unknown,Hispanic/Latino,1.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,15.0,0.0,1.0
+2020-07,CA,"FRESNO, CA",06019,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.01507537688442211,0.1306532663316583
+2020-12,NV,"CLARK, NV",32003,18 to 49 years,Male,Asian,Hispanic/Latino,0.0,0.0,Routine surveillance,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.014373716632443531,0.030800821355236138
+2021-03,FL,"HERNANDO, FL",12053,0 - 17 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.08888888888888889
+2020-12,OH,"CLARK, OH",39023,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,0.09090909090909091
+2021-04,OR,"DESCHUTES, OR",41017,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.20833333333333334
+2021-03,NC,"CUMBERLAND, NC",37051,18 to 49 years,Male,White,Hispanic/Latino,0.0,,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,15.0,0.0,0.029411764705882353
+2021-01,NY,"DUTCHESS, NY",36027,18 to 49 years,Male,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.20253164556962025
+2021-01,NC,"MCDOWELL, NC",37111,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,No,,7.0,0.0,0.9
+2020-11,MN,"OLMSTED, MN",27109,18 to 49 years,Male,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.09090909090909091
+2020-04,NY,"SULLIVAN, NY",36105,18 to 49 years,Male,White,Hispanic/Latino,1.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-11,VT,"WINDSOR, VT",50027,18 to 49 years,,,,0.0,,Missing,Unknown,Laboratory-confirmed case,Unknown,Unknown,Missing,No,,0.0,0.0,0.7777777777777778
+2021-04,OH,"BELMONT, OH",39013,0 - 17 years,Female,,,0.0,0.0,Missing,Unknown,Probable Case,Symptomatic,No,No,No,,0.0,0.0,0.3
+2020-09,FL,"FLAGLER, FL",12035,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2021-01,OH,"MUSKINGUM, OH",39119,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,0.15789473684210525
+2020-09,OK,"STEPHENS, OK",40137,0 - 17 years,Female,,,,,Missing,Missing,Probable Case,Unknown,No,Missing,No,,7.0,1.0,1.0
+2021-02,OH,"WAYNE, OH",39169,0 - 17 years,Female,,,0.0,0.0,Unknown,Unknown,Probable Case,Symptomatic,Unknown,Unknown,No,,0.0,0.0,0.5
+2020-10,NY,"WYOMING, NY",36121,0 - 17 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2021-01,NC,"DAVIE, NC",37059,18 to 49 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.7142857142857143
+2020-07,KY,"PULASKI, KY",21199,65+ years,Female,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,15.0,0.0,0.21428571428571427
+2021-02,NY,"JEFFERSON, NY",36045,0 - 17 years,Male,Missing,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.23076923076923078
+2020-11,MN,"BECKER, MN",27005,18 to 49 years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.5,1.0
+2021-01,MN,"FREEBORN, MN",27047,18 to 49 years,Male,,,2.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,1.0
+2020-08,NC,"ANSON, NC",37007,50 to 64 years,Female,Black,,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,15.0,0.0,1.0
+2021-02,NY,"RENSSELAER, NY",36083,0 - 17 years,Male,Black,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.21428571428571427
+2020-07,OH,"TRUMBULL, OH",39155,18 to 49 years,Female,Multiple/Other,,,0.0,Contact tracing of case patient,Yes,Laboratory-confirmed case,Symptomatic,Yes,Yes,No,Yes,7.0,0.0,0.09090909090909091
+2020-06,CA,"CONTRA COSTA, CA",06013,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.00966183574879227,0.01932367149758454
+2020-12,NC,"FORSYTH, NC",37067,0 - 17 years,Female,Unknown,Hispanic/Latino,0.0,,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,7.0,0.0,0.0
+2020-05,VA,"CHESTERFIELD, VA",51041,18 to 49 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.0
+2020-11,KS,"WYANDOTTE, KS",20209,18 to 49 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,15.0,0.0,0.0
+2020-09,NC,"LEE, NC",37105,18 to 49 years,Male,Unknown,Hispanic/Latino,0.0,,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,Yes,7.0,0.0,0.0
+2021-01,CA,"KERN, CA",06029,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,15.0,0.0,0.23178807947019867
+2021-03,NY,"NASSAU, NY",36059,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.0
+2020-12,CA,"TULARE, CA",06107,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,15.0,0.02564102564102564,0.21794871794871795
+2020-11,NC,"PITT, NC",37147,0 - 17 years,Male,Black,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,,15.0,0.0,0.125
+2020-12,MN,"HENNEPIN, MN",27053,18 to 49 years,Male,Black,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.006688963210702341
+2021-02,MI,"INGHAM, MI",26065,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,7.0,0.0,0.09876543209876543
+2021-02,CA,"EL DORADO, CA",06017,18 to 49 years,Male,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.046511627906976744,0.13953488372093023
+2021-04,CA,"SHASTA, CA",06089,18 to 49 years,Male,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.08333333333333333,0.20833333333333334
+2020-11,VA,"ALEXANDRIA CITY, VA",51510,0 - 17 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-04,NC,"RANDOLPH, NC",37151,0 - 17 years,Female,White,Hispanic/Latino,0.0,,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,7.0,0.0,0.14285714285714285
+2020-11,MN,"CARVER, MN",27019,18 to 49 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,Yes,0.0,0.0,0.2631578947368421
+2020-05,MN,"RICE, MN",27131,18 to 49 years,Female,White,Hispanic/Latino,2.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,0.0,0.0,1.0
+2021-01,OR,"WASCO, OR",41065,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.125,1.0
+2020-05,MD,"CARROLL, MD",24013,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.2894736842105263
+2020-11,KS,"DOUGLAS, KS",20045,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,0.09090909090909091
+2021-01,SC,"GREENVILLE, SC",45045,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.04504504504504504
+2021-03,KY,"HARDIN, KY",21093,0 - 17 years,Female,,,,,Missing,Missing,Probable Case,Missing,Unknown,Missing,No,,0.0,0.0,0.045454545454545456
+2020-11,KS,"MCPHERSON, KS",20113,0 - 17 years,Female,,,0.0,0.0,Clinical evaluation,Unknown,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,1.0
+2020-11,OK,"WAGONER, OK",40145,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,1.0,0.2727272727272727
+2021-05,NC,"CURRITUCK, NC",37053,18 to 49 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.875
+2020-12,OK,"DELAWARE, OK",40041,18 to 49 years,Female,,,,,Missing,Missing,Probable Case,Unknown,No,Missing,No,,15.0,1.0,1.0
+2021-01,OH,"PERRY, OH",39127,18 to 49 years,Female,,,,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,1.0
+2020-10,KY,"LOGAN, KY",21141,50 to 64 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,7.0,0.0,1.0
+2020-10,NC,"GREENE, NC",37079,65+ years,Female,,,0.0,,Missing,Missing,Probable Case,Unknown,Unknown,Unknown,No,,15.0,0.0,1.0
+2020-09,AR,"UNION, AR",05139,0 - 17 years,Male,,,0.0,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,15.0,0.0,1.0
+2021-03,OH,"JEFFERSON, OH",39081,18 to 49 years,Female,Black,,1.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,7.0,0.0,0.13043478260869565
+2021-03,NY,"ULSTER, NY",36111,18 to 49 years,Female,Black,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.23404255319148937
+2020-11,VA,"PETERSBURG CITY, VA",51730,50 to 64 years,Male,Black,,,,Missing,Missing,Laboratory-confirmed case,Missing,Yes,Missing,No,,15.0,0.0,0.0
+2021-04,SC,"OCONEE, SC",45073,18 to 49 years,Male,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.4
+2020-12,OH,"ALLEN, OH",39003,50 to 64 years,Male,Multiple/Other,,,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,0.0,0.0,0.18181818181818182
+2020-09,MN,"BROWN, MN",27015,0 - 17 years,Female,White,,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,1.0
+2020-11,MN,"FILLMORE, MN",27045,18 to 49 years,Male,White,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-10,CA,"IMPERIAL, CA",06025,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.12903225806451613,0.25806451612903225
+2020-10,KY,"FAYETTE, KY",21067,18 to 49 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,No,,7.0,0.0,0.0
+2021-01,NY,"ROCKLAND, NY",36087,18 to 49 years,Female,Unknown,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.0
+2020-11,MN,"SCOTT, MN",27139,18 to 49 years,Male,Unknown,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.19047619047619047,0.19047619047619047
+2021-01,NC,"CABARRUS, NC",37025,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.05405405405405406
+2021-04,RI,"PROVIDENCE, RI",44007,0 - 17 years,Female,Black,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.014184397163120567
+2020-12,NJ,"BURLINGTON, NJ",34005,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.008771929824561403
+2020-11,CA,"TUOLUMNE, CA",06109,18 to 49 years,Male,Multiple/Other,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.18181818181818182,0.2727272727272727
+2020-06,TN,"HAMBLEN, TN",47063,0 - 17 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,No,No,No,,7.0,0.0,0.0
+2021-04,OR,"JACKSON, OR",41029,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.04878048780487805
+2020-06,NC,"PENDER, NC",37141,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,No,,0.0,0.0,0.8125
+2020-12,KY,"WARREN, KY",21227,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,7.0,0.0,0.041666666666666664
+2020-09,KS,"ELLIS, KS",20051,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,1.0
+2020-07,PA,"FAYETTE, PA",42051,0 - 17 years,Female,,,0.0,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,15.0,0.0,0.25
+2020-09,FL,"WAKULLA, FL",12129,0 - 17 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-11,VT,"WASHINGTON, VT",50023,0 - 17 years,Female,,,,0.0,Clinical evaluation,Yes,Probable Case,Symptomatic,No,Missing,No,Yes,0.0,0.0,1.0
+2020-12,ID,"BINGHAM, ID",16011,18 to 49 years,Female,Missing,Missing,0.0,,Other detection method (specify),Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,0.75,1.0
+2020-12,CA,"CALAVERAS, CA",06009,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.0,1.0
+2021-03,KY,"MONTGOMERY, KY",21173,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2021-01,MI,"CHIPPEWA, MI",26033,65+ years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,15.0,0.35714285714285715,1.0
+2020-12,KY,"ROWAN, KY",21205,65+ years,Female,Missing,Missing,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,15.0,0.0,1.0
+2020-05,NY,"ALLEGANY, NY",36003,18 to 49 years,Male,Missing,,16.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,15.0,0.15384615384615385,1.0
+2020-11,MN,"STEELE, MN",27147,18 to 49 years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.125
+2021-01,ME,"SAGADAHOC, ME",23023,50 to 64 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.2222222222222222
+2021-03,NC,"COLUMBUS, NC",37047,0 - 17 years,Female,Black,,0.0,,Missing,Unknown,Probable Case,Symptomatic,No,Unknown,No,Yes,15.0,0.0,1.0
+2020-04,KS,"FORD, KS",20057,50 to 64 years,Male,Unknown,Hispanic/Latino,0.0,,Missing,Yes,Laboratory-confirmed case,Symptomatic,Unknown,No,No,,7.0,0.0,0.2857142857142857
+2020-12,CA,"STANISLAUS, CA",06099,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.06382978723404255
+2020-11,NJ,"MIDDLESEX, NJ",34023,18 to 49 years,Female,Black,Hispanic/Latino,,,Missing,Missing,Probable Case,Missing,Missing,Missing,No,,0.0,0.0,0.0
+2020-12,NJ,"UNION, NJ",34039,18 to 49 years,Female,Black,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2021-01,UT,"SALT LAKE, UT",49035,18 to 49 years,Male,Black,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,0.0
+2020-05,NC,"SURRY, NC",37171,0 - 17 years,Female,White,Hispanic/Latino,0.0,,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,Yes,7.0,0.0,1.0
+2020-07,NM,"VALENCIA, NM",35061,0 - 17 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.3888888888888889,0.05555555555555555
+2021-02,NJ,"CAPE MAY, NJ",34009,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,Yes,Missing,No,,0.0,0.0,0.03125
+2020-12,CA,"YUBA, CA",06115,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,7.0,0.14285714285714285,0.21428571428571427
+2020-05,MD,"CAROLINE, MD",24011,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-10,KS,"HARVEY, KS",20079,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,1.0
+2020-08,NC,"ORANGE, NC",37135,18 to 49 years,Male,White,Hispanic/Latino,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,0.07142857142857142
+2020-12,AR,"POPE, AR",05115,18 to 49 years,Male,White,Hispanic/Latino,1.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,7.0,0.0,0.2727272727272727
+2020-10,AR,"LOGAN, AR",05083,0 - 17 years,,,,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,7.0,0.0,1.0
+2020-11,OR,"UNION, OR",41061,0 - 17 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,,7.0,0.125,1.0
+2021-01,ME,"LINCOLN, ME",23015,18 to 49 years,,,,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,0.0,0.0,0.9
+2021-01,VT,"RUTLAND, VT",50021,65+ years,,,,0.0,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2021-04,OH,"UNION, OH",39159,0 - 17 years,Female,,,,,Missing,Missing,Probable Case,Missing,Missing,Missing,No,,0.0,0.0,0.9
+2020-12,ME,"HANCOCK, ME",23009,18 to 49 years,Female,,,,,Missing,Missing,Probable Case,Missing,Missing,Missing,No,,0.0,0.058823529411764705,1.0
+2021-03,CA,"LAKE, CA",06033,18 to 49 years,Female,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.3333333333333333,1.0
+2020-11,MD,"ALLEGANY, MD",24001,18 to 49 years,Male,Missing,Missing,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.17391304347826086
+2020-07,NY,"FRANKLIN, NY",36033,18 to 49 years,Male,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,15.0,0.14285714285714285,1.0
+2021-03,ME,"KNOX, ME",23013,18 to 49 years,Male,,,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,0.0,0.0,1.0
+2020-12,OH,"WYANDOT, OH",39175,18 to 49 years,Male,,,,0.0,Routine surveillance,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,,0.0,0.0,1.0
+2021-03,OR,"COOS, OR",41011,50 to 64 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.6923076923076923,0.3076923076923077
+2020-08,NC,"HERTFORD, NC",37091,0 - 17 years,Female,Black,,0.0,,Missing,Yes,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,15.0,0.0,1.0
+2020-12,NY,"SCHOHARIE, NY",36095,18 to 49 years,Female,Multiple/Other,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-11,CA,"SAN LUIS OBISPO, CA",06079,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.09433962264150944
+2020-06,FL,"MARTIN, FL",12085,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.05714285714285714
+2020-05,MN,"RAMSEY, MN",27123,18 to 49 years,Female,Unknown,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.0
+2020-08,NV,"WASHOE, NV",32031,18 to 49 years,Female,Unknown,Hispanic/Latino,1.0,0.0,Clinical evaluation,Unknown,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.14285714285714285,0.05357142857142857
+2021-01,OK,"CLEVELAND, OK",40027,18 to 49 years,Male,Missing,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,0.25806451612903225,0.03225806451612903
+2021-02,NJ,"OCEAN, NJ",34029,18 to 49 years,Male,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.05555555555555555
+2020-12,CA,"TEHAMA, CA",06103,18 to 49 years,Male,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,7.0,0.09090909090909091,1.0
+2020-12,CA,"SAN JOAQUIN, CA",06077,18 to 49 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,7.0,0.0,0.04316546762589928
+2020-12,NC,"MECKLENBURG, NC",37119,65+ years,Female,American Indian/Alaska Native,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.0
+2021-05,NY,"MONROE, NY",36055,0 - 17 years,Female,Black,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.052083333333333336
+2020-04,NY,"ORANGE, NY",36071,18 to 49 years,Female,Black,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,0.0,0.0,0.25316455696202533
+2020-11,NJ,"PASSAIC, NJ",34031,18 to 49 years,Female,Black,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.01
+2020-07,AR,"SEBASTIAN, AR",05131,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,7.0,0.3076923076923077,0.11538461538461539
+2020-06,ID,"CASSIA, ID",16031,18 to 49 years,Female,White,Hispanic/Latino,1.0,0.0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-10,WI,"DODGE, WI",55027,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-06,CA,"GLENN, CA",06021,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.16666666666666666,1.0
+2021-04,NH,"ROCKINGHAM, NH",33015,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,0.046153846153846156
+2021-01,NC,"TRANSYLVANIA, NC",37175,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.8571428571428571
+2020-11,WI,"EAU CLAIRE, WI",55035,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.05,0.1
+2021-03,KY,"WOODFORD, KY",21239,0 - 17 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.875
+2020-11,VT,"BENNINGTON, VT",50003,18 to 49 years,,,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,0.0,0.0,1.0
+2021-01,MN,"BELTRAMI, MN",27007,0 - 17 years,Female,,,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,Yes,7.0,0.5,1.0
+2020-09,OK,"ADAIR, OK",40001,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,15.0,1.0,1.0
+2020-11,NC,"CARTERET, NC",37031,18 to 49 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.15789473684210525
+2020-11,NC,"DARE, NC",37055,18 to 49 years,Female,,,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.8181818181818182
+2020-04,NY,"FULTON, NY",36035,18 to 49 years,Female,,,25.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.0,0.3333333333333333
+2020-08,OH,"ROSS, OH",39141,18 to 49 years,Female,,,,,Routine surveillance,Yes,Laboratory-confirmed case,Asymptomatic,No,Missing,No,,7.0,0.0,0.23529411764705882
+2020-11,NH,"SULLIVAN, NH",33019,50 to 64 years,Female,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,,0.0,0.0,1.0
+2021-05,OR,"COLUMBIA, OR",41009,0 - 17 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.2
+2020-11,MN,"MEEKER, MN",27093,0 - 17 years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-12,KY,"JESSAMINE, KY",21113,18 to 49 years,Male,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-11,OR,"LINCOLN, OR",41041,50 to 64 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.4444444444444444,0.9444444444444444
+2020-06,MN,"LYON, MN",27083,50 to 64 years,Male,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-09,WI,"SHAWANO, WI",55115,50 to 64 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.45454545454545453,1.0
+2021-03,OR,"LANE, OR",41039,18 to 49 years,Male,Black,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.03488372093023256,0.2441860465116279
+2020-12,MN,"GOODHUE, MN",27049,18 to 49 years,Female,Multiple/Other,,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.2,1.0
+2020-09,OR,"KLAMATH, OR",41035,18 to 49 years,Female,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.1,0.35
+2020-11,MN,"CARLTON, MN",27017,18 to 49 years,Female,White,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.7142857142857143,1.0
+2020-07,CA,"SAN BENITO, CA",06069,0 - 17 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.0
+2020-11,CA,"SANTA CRUZ, CA",06087,0 - 17 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,0.0,0.0
+2020-12,ID,"ADA, ID",16001,50 to 64 years,Male,Multiple/Other,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,0.0,0.0
+2020-10,AR,"BENTON, AR",05007,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,0.0,0.12244897959183673,0.16326530612244897
+2020-06,NC,"JOHNSTON, NC",37101,0 - 17 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,0.32
+2020-09,NC,"DURHAM, NC",37063,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,7.0,0.0,0.0
+2020-11,NC,"HENDERSON, NC",37089,18 to 49 years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,0.07407407407407407
+2020-04,KS,"LYON, KS",20111,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Multiple,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,7.0,0.0,1.0
+2020-07,AZ,"MOHAVE, AZ",04015,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,7.0,0.23255813953488372,0.11627906976744186
+2020-06,NC,"NEW HANOVER, NC",37129,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.0
+2020-05,WI,"RACINE, WI",55101,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.20454545454545456
+2020-11,KS,"RILEY, KS",20161,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Probable Case,Symptomatic,No,No,No,,15.0,0.0,0.07142857142857142
+2020-12,NC,"STANLY, NC",37167,65+ years,Female,White,Hispanic/Latino,0.0,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,,0.0,0.0,1.0
+2020-05,AL,"FRANKLIN, AL",01059,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-06,VA,"NORFOLK CITY, VA",51710,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,,15.0,0.0,0.0
+2020-11,KY,"CARTER, KY",21043,18 to 49 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2020-10,KY,"WAYNE, KY",21231,18 to 49 years,,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,,15.0,0.0,1.0
+2020-10,NC,"SCOTLAND, NC",37165,0 - 17 years,Female,,,0.0,,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,15.0,0.0,1.0
+2020-11,NY,"TOMPKINS, NY",36109,0 - 17 years,Female,,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.043478260869565216,0.30434782608695654
+2021-01,OK,"LOGAN, OK",40083,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,No,,0.0,0.375,0.625
+2020-06,MI,"ST. JOSEPH, MI",26149,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-11,MN,"CROW WING, MN",27035,50 to 64 years,Female,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.125,1.0
+2021-01,MD,"CALVERT, MD",24009,18 to 49 years,Male,Unknown,Missing,,,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,No,,0.0,0.0,0.7777777777777778
+2021-02,OR,"DOUGLAS, OR",41019,18 to 49 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.5,0.5454545454545454
+2021-01,NC,"JACKSON, NC",37099,0 - 17 years,Female,American Indian/Alaska Native,,0.0,,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,,15.0,0.2222222222222222,1.0
+2020-11,MN,"CHISAGO, MN",27025,18 to 49 years,Male,American Indian/Alaska Native,Missing,0.0,,Missing,Yes,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-11,TN,"LAUDERDALE, TN",47097,50 to 64 years,Male,Black,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Asymptomatic,No,No,No,,15.0,0.0,1.0
+2020-11,CA,"SISKIYOU, CA",06093,18 to 49 years,Female,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.35714285714285715,1.0
+2020-08,OR,"YAMHILL, OR",41071,18 to 49 years,Female,Multiple/Other,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.058823529411764705,0.17647058823529413
+2020-11,MN,"MORRISON, MN",27097,0 - 17 years,Male,White,Missing,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,Yes,0.0,0.125,1.0
+2020-05,NJ,"CUMBERLAND, NJ",34011,18 to 49 years,Female,Unknown,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,7.0,0.0,0.17647058823529413
+2020-06,CO,"EAGLE, CO",08037,18 to 49 years,Female,Missing,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,1.0
+2020-06,CA,"MERCED, CA",06047,18 to 49 years,Female,Unknown,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.14285714285714285
+2021-01,FL,"PALM BEACH, FL",12099,0 - 17 years,Female,Black,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.032640949554896145
+2020-12,CA,"COLUSA, CA",06011,0 - 17 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,No,,0.0,0.4,1.0
+2020-12,NC,"IREDELL, NC",37097,0 - 17 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,0.0,0.0,0.18181818181818182
+2021-01,CA,"PLACER, CA",06061,0 - 17 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.03529411764705882,0.16470588235294117
+2020-11,OK,"CANADIAN, OK",40017,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,,0.0,0.896551724137931,0.2413793103448276
+2020-06,AL,"JEFFERSON, AL",01073,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,0.012269938650306749
+2021-02,NC,"MONTGOMERY, NC",37123,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,7.0,0.0,1.0
+2021-04,OH,"MONTGOMERY, OH",39113,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,Yes,7.0,0.0,0.006535947712418301
+2021-03,VA,"MONTGOMERY, VA",51121,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,15.0,0.0,0.0
+2020-06,AL,"SHELBY, AL",01117,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.125
+2020-11,MN,"SHERBURNE, MN",27141,18 to 49 years,Female,White,Hispanic/Latino,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.2727272727272727
+2020-12,NJ,"SUSSEX, NJ",34037,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,0.3170731707317073
+2020-08,CA,"SUTTER, CA",06101,18 to 49 years,Female,White,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,No,,0.0,0.0,0.23809523809523808
+2021-04,OR,"WASHINGTON, OR",41067,18 to 49 years,Female,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.019230769230769232
+2020-05,NC,"WAYNE, NC",37191,18 to 49 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,Yes,15.0,0.0,0.15384615384615385
+2020-11,MN,"WASHINGTON, MN",27163,50 to 64 years,Female,White,Hispanic/Latino,1.0,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,,0.0,0.0,0.14
+2020-08,MI,"ALLEGAN, MI",26005,18 to 49 years,Male,White,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.08333333333333333,0.7916666666666666
+2020-07,NC,"FRANKLIN, NC",37069,18 to 49 years,Male,White,Hispanic/Latino,1.0,0.0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,0.8333333333333334
+2020-10,KY,"FLOYD, KY",21071,,,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2020-08,KY,"KNOX, KY",21121,,,,,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,15.0,0.0,0.75
+2020-08,KS,"BARTON, KS",20009,0 - 17 years,,,,0.0,0.0,Clinical evaluation,Unknown,Probable Case,Symptomatic,No,Unknown,No,,7.0,0.0,1.0
+2021-03,NY,"CAYUGA, NY",36011,0 - 17 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,7.0,0.21052631578947367,0.42105263157894735
+2020-12,OH,"HOLMES, OH",39075,0 - 17 years,Female,,,,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,,0.0,0.0,1.0
+2020-09,NY,"COLUMBIA, NY",36021,18 to 49 years,Female,,,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-07,NY,"GENESEE, NY",36037,18 to 49 years,Female,Missing,,2.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.13333333333333333,1.0
+2021-01,OH,"HOCKING, OH",39073,18 to 49 years,Female,,,,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,7.0,0.0,1.0
+2020-11,KY,"MADISON, KY",21151,18 to 49 years,Female,Unknown,Missing,,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,15.0,0.0,0.2631578947368421
+2020-08,ND,"BURLEIGH, ND",38015,50 to 64 years,Female,Missing,Missing,,0.0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.10526315789473684
+2020-08,OH,"GALLIA, OH",39053,50 to 64 years,Female,,,,0.0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,Yes,7.0,0.0,1.0
+2020-05,NY,"GREENE, NY",36039,50 to 64 years,Female,Missing,,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,,0.0,0.0,1.0
+2020-10,KY,"BARREN, KY",21009,65+ years,Female,Missing,Missing,,0.0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2020-11,KS,"MIAMI, KS",20121,0 - 17 years,Male,,,0.0,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,,0.0,0.0,1.0
+2020-09,OR,"MALHEUR, OR",41045,18 to 49 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.25,0.625
+2021-01,KY,"MUHLENBERG, KY",21177,18 to 49 years,Male,,,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,15.0,0.0,1.0
+2020-11,MN,"PINE, MN",27115,18 to 49 years,Male,Unknown,Missing,0.0,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.5,1.0
+2021-01,ME,"YORK, ME",23031,18 to 49 years,Female,Black,,,,Missing,Missing,Probable Case,Missing,No,Missing,No,,0.0,0.0,0.4878048780487805
+2020-11,MN,"OTTER TAIL, MN",27111,18 to 49 years,Female,Multiple/Other,Missing,0.0,0.0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,No,,0.0,0.058823529411764705,1.0
+2020-11,IN,"DELAWARE, IN",18035,65+ years,Female,White,Missing,,,Missing,Missing,Laboratory-confirmed case,Missing,Yes,Missing,No,,15.0,0.0,0.06666666666666667
+2020-11,IN,"SHELBY, IN",18145,50 to 64 years,Male,White,Missing,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.0,0.8
+2020-07,SC,"HORRY, SC",45051,18 to 49 years,Male,Missing,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0,0.16666666666666666
+2021-04,AZ,"MARICOPA, AZ",04013,0 - 17 years,Female,American Indian/Alaska Native,Hispanic/Latino,,,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,,0.0,0.07860262008733625,0.0054585152838427945
+2021-01,NC,"ROBESON, NC",37155,18 to 49 years,Male,American Indian/Alaska Native,Hispanic/Latino,0.0,0.0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,,15.0,0.0,0.5483870967741935
+2020-11,MT,"YELLOWSTONE, MT",30111,18 to 49 years,Female,Multiple/Other,Hispanic/Latino,,0.0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,0.0625,0.09375
