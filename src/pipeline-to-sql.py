@@ -4,7 +4,6 @@ import numpy as np
 from sqlalchemy import create_engine
 from os import environ
 
-from typing import Union, Type, List, Dict
 from sqlalchemy.engine.base import Engine
 
 
@@ -108,4 +107,3 @@ if __name__ == '__main__':
 
     alchemy_engine.dispose()
     print('Program Ended.')
-    
