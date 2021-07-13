@@ -90,6 +90,21 @@ if __name__ == '__main__':
     print('Saving all case data to PostgreSQL...')
     # df_keep.to_sql(
     #     'all_case_data', alchemy_engine, index=False, if_exists='replace')
-    
+
+    print('Saving no null cases data to PostgreSQL...')
+    remove = (
+        (df_keep == 'Missing') | (df_keep == 'Unknown') | df_keep.isna()
+        ).any(axis=1)
+    df_keep[~remove].to_sql(
+        'no_null_data', alchemy_engine, index=False, if_exists='replace')
+
+    print('Saving some null cases data to PostgreSQL...')
+    remove = (df_keep['underlying_conditions_yn'].isin(
+            ['Missing', 'Unknown', pd.NA]) 
+        | df_keep['icu_yn'].isin(['Missing', 'Unknown', pd.NA]) 
+        | df_keep['exposure_yn'].isin(['Missing', 'Unknown', pd.NA]))
+    df_keep.to_sql(
+        'some_null_data', alchemy_engine, index=False, if_exists='replace')
 
     alchemy_engine.dispose()
+    print('Program Ended.')
