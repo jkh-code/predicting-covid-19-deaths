@@ -103,7 +103,7 @@ if __name__ == '__main__':
             ['Missing', 'Unknown', pd.NA]) 
         | df_keep['icu_yn'].isin(['Missing', 'Unknown', pd.NA]) 
         | df_keep['exposure_yn'].isin(['Missing', 'Unknown', pd.NA]))
-    df_keep.to_sql(
+    df_keep[~remove].to_sql(
         'some_null_data', alchemy_engine, index=False, if_exists='replace')
 
     alchemy_engine.dispose()
