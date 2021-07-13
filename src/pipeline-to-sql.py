@@ -88,8 +88,8 @@ if __name__ == '__main__':
     alchemy_engine = make_alchemy_engine('covid_cases')
     
     print('Saving all case data to PostgreSQL...')
-    # df_keep.to_sql(
-    #     'all_case_data', alchemy_engine, index=False, if_exists='replace')
+    df_keep.to_sql(
+        'all_case_data', alchemy_engine, index=False, if_exists='replace')
 
     print('Saving no null cases data to PostgreSQL...')
     remove = (
@@ -108,3 +108,4 @@ if __name__ == '__main__':
 
     alchemy_engine.dispose()
     print('Program Ended.')
+    
