@@ -18,8 +18,11 @@ def make_alchemy_engine(
 
 
 if __name__ == '__main__':
-    # loading cases data
-    covid_cases_path = ('./../data/' 
+    print('Starting pipeline...')
+
+    # Loading cases data
+    print('Loading cases data...')
+    covid_cases_path = ('./data/' 
         + 'COVID-19_Case_Surveillance_Public_Use_Data_with_Geography.csv')
     df_cases = pd.read_csv(
         covid_cases_path, dtype='string')
@@ -31,14 +34,15 @@ if __name__ == '__main__':
     df_cases['case_onset_interval'] = pd.to_numeric(
         df_cases['case_onset_interval'])
 
-    # loading counties data
+    # Loading counties data
+    print('Loading counties data...')
     use_columns = ['STATE', 'COUNTY', 'County FIPS', 
         'Low Income Area (LIA) County SAIPE- Score', 
         'Tribal Community\n(1 if yes)', 'Rural']
     column_names = ['state', 'county', 'county_fips', 'low_income_score', 
         'tribal', 'rural']
 
-    counties_path = ('./../data/' 
+    counties_path = ('./data/' 
         + 'COVID-19_Community_Vulnerability_Crosswalk_-_'
         + 'Crosswalk_by_Census_Tract.csv')
     df_counties = pd.read_csv(
@@ -62,6 +66,7 @@ if __name__ == '__main__':
         'rural', 'ctract_count'])
 
     # Joining
+    print('Joining data...')
     df = df_cases.merge(
         df_counties, how='left', left_on='county_fips_code', 
         right_on='county_fips')
@@ -72,6 +77,7 @@ if __name__ == '__main__':
     del df_counties
 
     # Limiting to yes/no in death_yn column
+    print('Keeping data yes/no data in death_yn column...')
     df_keep = df[~df['death_yn'].isna()]
     df_keep = df_keep[
         (df_keep['death_yn']=='Yes') | (df_keep['death_yn']=='No')]
@@ -80,8 +86,10 @@ if __name__ == '__main__':
 
     # Saving df_keep to database
     alchemy_engine = make_alchemy_engine('covid_cases')
-    df_keep.to_sql(
-        'all_case_data', alchemy_engine, index=False, if_exists='replace')
+    
+    print('Saving all case data to PostgreSQL...')
+    # df_keep.to_sql(
+    #     'all_case_data', alchemy_engine, index=False, if_exists='replace')
     
 
     alchemy_engine.dispose()
