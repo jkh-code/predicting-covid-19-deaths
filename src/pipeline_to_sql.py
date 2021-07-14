@@ -1,11 +1,22 @@
 import pandas as pd
 import numpy as np
 
+import psycopg2 as pg2
 from sqlalchemy import create_engine
 from os import environ
 
 from sqlalchemy.engine.base import Engine
 
+
+def make_postgres_conn(
+        dbname: str='postgres', port: int=5432) -> pg2.extensions.connection:
+    conn = pg2.connect(
+        dbname=dbname,
+        port=port,
+        host=environ['PG_HOST'],
+        user=environ['PG_USER'],
+        password=environ['PG_PASSWORD'])
+    return conn
 
 def make_alchemy_engine(
         dbname: str='postgres', port: int=5432) -> Engine:
