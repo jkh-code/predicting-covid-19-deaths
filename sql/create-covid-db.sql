@@ -1,4 +1,7 @@
+/*
+-- Create the following database before running this script
 CREATE DATABASE covid_cases;
+*/
 
 CREATE TABLE public.all_case_data (
 	case_month varchar(100) NULL,
