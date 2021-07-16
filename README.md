@@ -82,7 +82,9 @@ After the community crosswalk data was transformed into county-level data, it wa
 ## Exploratory Data Analysis
 The patient dataset is 27.1 million rows, however, for exploratory data analysis (EDA), a subset of this dataset was used. Only records without missing values in the `death_yn` field were used for EDA because this is the data that would be used during predictive modeling. A sample of 10 million records was extract from the dataset and only 4.4 million records did not have a missing death value. These 4.4 million record were used for EDA.
 
+The number of cases by state is plotted below. Interestingly, 
 
+![cases by state](images/number-cases-by-state.png)
 
 
 
