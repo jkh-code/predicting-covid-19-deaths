@@ -189,8 +189,7 @@ Due to the high frequency of NA and missing values in the dataset, three sets of
 
 Dataset (1) has 57.5k observations, dataset (2) has 203k observations, and dataset (3) has 13.2 million observations, but only 3 million observations were used in the [Results](#results) section below.
 
-
-
+For each dataset a logistic regression and random forest model will be used to predict if a patient dies from their COVID infection. Recall will be used to judge each model because predicting death will be the positive class and recall is a measure of the true positive rate.
 
 
 
