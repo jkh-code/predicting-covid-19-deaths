@@ -165,8 +165,21 @@ To account for these large number of null or missing values, during the predicti
 
 Additional EDA on the percent of different groups that died from their COVID infection are below.
 
-![]()
+![](images/percent-death-age-group.png)
 
+![](images/percent-death-sex.png)
+
+![](images/percent-death-race.png)
+
+![](images/percent-death-exposure-behavior.png)
+
+![](images/percent-mortality-hospitalization.png)
+
+![](images/percent-death-icu.png)
+
+![](images/percent-death-underlying-conditions.png)
+
+![](images/percent-death-low-income-score.png)
 
 
 
