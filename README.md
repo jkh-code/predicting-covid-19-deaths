@@ -8,7 +8,7 @@
 - [Background](#background)
 - [Reproducing the Project](#reproducing-the-project)
 - [Data](#data)
-- [Exploratory-Data-Analysis](#exploratory-data-analysis)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Predictive Modeling](#predictive-modeling)
 - [Results](#results)
 - [Next Steps](#next-steps)
