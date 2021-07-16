@@ -92,6 +92,32 @@ The two plots below indicate that the majority of cases in the dataset are patie
 
 ![percent cases by sex](images/percent-cases-sex.png)
 
+When race is examined, issues with missing and null values start to appear. The majority of cases in the dataset are White, however, the next two largest percent of cases are NaN (equivalent to NA) and Unknown followed by African-American.
+
+![percent cases by race](images/percent-cases-race.png)
+
+The issue of a significant number of NA, Missing, or Unknown values will appear again for exposure behavior, hospitalization, ICU visit, and underlying conditions.
+
+The majority of cases have exposure behavior missing, with about 13% responding "Yes".
+
+![percent exposure behavior](images/percent-cases-exposure-behavior.png)
+
+The majority of cases were not hospitalized and the ICU visit feature has an overwhelming majority of missing or unknown values.
+
+![percent cases hospitalized](images/percent-cases-hospitalization.png)
+
+![percent cases to icu](images/percent-cases-icu-visit.png)
+
+The majority of cases have NA for underlying conditions.
+
+![percent cases underlying conditions](images/percent-cases-underlying-conditions.png)
+
+In the dataset for EDA, only about 1.2% of cases resulted in deaths.
+
+![percent cases with death](images/percent-cases-with-death.png)
+
+
+
 
 
 ## Predictive Modeling
