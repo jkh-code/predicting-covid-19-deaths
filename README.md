@@ -55,6 +55,15 @@ The main dataset for this project comes from the CDC's [COVID-19 Case Surveillan
 | death_yn | Did the patient die as a result of the illness? |
 | underlying_conditions_yn | Did the patient have one or more underlying conditions? |
 
+The fields above can contain one of four missing data values. The table below describes the four types of missing values a field can have. See the [Exploratory Data Analysis](#exploratory-data-analysis) section for a discussion on how these missing values were handled.
+
+| Missing Value  | Description |
+| ------------- | ------------- |
+| NA | Suppressed due to privacy. |
+| Missing | Jurisdiction did not collect. |
+| Unknown | Jurisdiction reported field as unknown. |
+| Blank | Jurisdiction did not collect. |
+
 The secondary dataset for this project comes from the U.S. Department of Health and Human Services' [COVID-19 Community Vulnerability Crosswalk by Census Tract](https://healthdata.gov/Health/COVID-19-Community-Vulnerability-Crosswalk-Crosswa/x2y5-9muu) dataset. This dataset contains 19 columns, 72.8 thousand rows, and each row is a census tract in the United States. This dataset contains data on how vulnerable a census tract or county is to COVID-19. For the purposes of this project, county-level low income area score, tribal, and rural data will be extracted. Below are the fields used.
 
 | Field  | Description |
