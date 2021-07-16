@@ -82,9 +82,15 @@ After the community crosswalk data was transformed into county-level data, it wa
 ## Exploratory Data Analysis
 The patient dataset is 27.1 million rows, however, for exploratory data analysis (EDA), a subset of this dataset was used. Only records without missing values in the `death_yn` field were used for EDA because this is the data that would be used during predictive modeling. A sample of 10 million records was extract from the dataset and only 4.4 million records did not have a missing death value. These 4.4 million record were used for EDA.
 
-The number of cases by state is plotted below. Interestingly, 
+The number of cases by state is plotted below. Only two of the top five states with the largest populations are in the top 5 states by number of cases and three states with a population between five and 10 million are also in the top 5 states by number of cases.
 
 ![cases by state](images/number-cases-by-state.png)
+
+The two plots below indicate that the majority of cases in the dataset are patients 18 to 49 years old and females are a slightly higher percent of cases.
+
+![percent cases by age group](images/percent-cases-age-group.png)
+
+![percent cases by sex](images/percent-cases-sex.png)
 
 
 
