@@ -10,6 +10,7 @@
 - [Data](#data)
 - [Exploratory-Data-Analysis](#exploratory-data-analysis)
 - [Predictive Modeling](#predictive-modeling)
+- [Results](#results)
 - [Next Steps](#next-steps)
 
 ## Background
@@ -57,7 +58,7 @@ The main dataset for this project comes from the CDC's [COVID-19 Case Surveillan
 | death_yn | Did the patient die as a result of the illness? |
 | underlying_conditions_yn | Did the patient have one or more underlying conditions? |
 
-The fields above can contain one of four missing data values. The table below describes the four types of missing values a field can have. See the [Exploratory Data Analysis](#exploratory-data-analysis) section for a discussion on how these missing values were handled.
+The fields above can contain one of four missing data values. The table below describes the four types of missing values a field can have. See the [Predictive Modeling](#predictive-modeling) section for a discussion on how these missing values impacted modeling.
 
 | Missing Value  | Description |
 | ------------- | ------------- |
@@ -153,15 +154,7 @@ Exploring the data for percent of null and percent of null, unknown, or missing 
 | perc_tribal_ct | 0.02 | 0.02 |
 | perc_rural_ct | 0.02 | 0.02 |
 
-To account for these large number of null or missing values, during the predictive modeling phase three sets of data will be used:
-
-1. A dataset with no null or missing values.
-2. A dataset with null values imputed and missing values unchanged.
-3. A dataset with high null or missing value features dropped and null values imputed. The features that will be dropped are:
-    - Exposure behavior
-    - ICU visit
-    - Underlying conditions
-    - Case positive specimen interval
+The exposure behavior, ICU visit, underlying condition, and case positive specimen interval features all have a high percent of null or missing values, and there are several other features that have a high percentage of null or missing values. See the [Predictive Modeling](#predictive-modeling) section for the impact of these null and missing values on the model.
 
 Additional EDA on the percent of different groups that died from their COVID infection are below.
 
@@ -184,6 +177,24 @@ Additional EDA on the percent of different groups that died from their COVID inf
 
 
 ## Predictive Modeling
+Due to the high frequency of NA and missing values in the dataset, three sets of data will be created to train models with and the best performing model will be used for predictions. The following three datasets were created:
+
+1. A dataset with no null or missing values.
+2. A dataset with null values imputed and missing values unchanged.
+3. A dataset with high null or missing value features dropped and null values imputed. The features that will be dropped are:
+    - Exposure behavior
+    - ICU visit
+    - Underlying conditions
+    - Case positive specimen interval
+
+Dataset (1) has 57.5k observations, dataset (2) has 203k observations, and dataset (3) has 13.2 million observations, but only 3 million observations were used in the [Results](#results) section below.
+
+
+
+
+
+
+## Results
 
 
 ## Next Steps
