@@ -9,6 +9,8 @@
 - [Reproducing the Project](#reproducing-the-project)
 - [Data](#data)
 - [Exploratory-Data-Analysis](#exploratory-data-analysis)
+- [Predictive Modeling](#predictive-modeling)
+- [Next Steps](#next-steps)
 
 ## Background
 The COVID-19 pandemic flooded hospitals with a torrent of patients during case surges and overwhelmed the medical industry. At this time, vaccination rates are rising, but the possibility of local surges due to the Delta variant and vaccine hesitancy means hospitals may continue to face surges. During these surges staff are overwhelmed and may need a tool to help diagnose if a patient may die from their COVID-19 infection. By predicting that a patient may die from their infection, hospital staff have time to change treatment, provide targeted increased care, or can suggest experimental treatments in an effort to save a patient's life. The goal of this project is to develop a predictive model from publicly available data to determine if a COVID-19 infected patient will die from their infection with the hope this information will change treatment for the patient and save their life.
@@ -73,6 +75,18 @@ The secondary dataset for this project comes from the U.S. Department of Health 
 | Tribal Community | A flag indicating if a census tract contains tribal land or not. |
 | Rural | A flag indicating if a census tract is rural. |
 
-The tribal community and rural fields will be combined for a county-level view. To calculate an estimate of how rural or tribal a county is, the number of census tracts per county will be calculated and then the number of rural or tribal census tracts per county will be aggregated. Next, the number of rural or tribal census tracts will be divided by the total number of census tracts to produce the estimate.
+The tribal community and rural fields was combined into a county-level view. To calculate an estimate of how rural or tribal a county is, the number of census tracts per county were calculated and then the number of rural or tribal census tracts per county were aggregated. Next, the number of rural or tribal census tracts were divided by the total number of census tracts to produce the estimate.
+
+After the community crosswalk data was transformed into county-level data, it was joined to the patient data so that features for the the low income score, percent tribal, and percent rural can be used during the predictive analysis and exploratory data analysis phases of this project.
 
 ## Exploratory Data Analysis
+The patient dataset is 27.1 million rows, however, for exploratory data analysis (EDA), a subset of this dataset was used. Only records without missing values in the `death_yn` field were used for EDA because this is the data that would be used during predictive modeling. A sample of 10 million records was extract from the dataset and only 4.4 million records did not have a missing death value. These 4.4 million record were used for EDA.
+
+
+
+
+
+## Predictive Modeling
+
+
+## Next Steps
