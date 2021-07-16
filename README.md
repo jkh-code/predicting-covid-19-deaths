@@ -79,6 +79,17 @@ The tribal community and rural fields was combined into a county-level view. To 
 
 After the community crosswalk data was transformed into county-level data, it was joined to the patient data so that features for the the low income score, percent tribal, and percent rural can be used during the predictive analysis and exploratory data analysis phases of this project.
 
+After review of the available features, the following fields were dropped because they are deemed to not provide much benefit to analysis. A reason for each field is given in the table below.
+
+| Field  | Why Dropped |
+| ------------- | ------------- |
+| res_county | Identifies a patient's county. Dropped because there are too many counties in the U.S. to provide useful information to the analysis. |
+| county_fips_code | Used for joining datasets. Dropped for same reason as res_county. |
+| current_status | If case is confirmed COVID or not. Cases filtered to confirmed cases for integrity of analysis and then dropped because all cases are confirmed. |
+| process | How was a case identified. This feature cannot impact if a patient will survive COVID. |
+
+
+
 ## Exploratory Data Analysis
 The patient dataset is 27.1 million rows, however, for exploratory data analysis (EDA), a subset of this dataset was used. Only records without missing values in the `death_yn` field were used for EDA because this is the data that would be used during predictive modeling. A sample of 10 million records was extract from the dataset and only 4.4 million records did not have a missing death value. These 4.4 million record were used for EDA.
 
@@ -116,6 +127,45 @@ In the dataset for EDA, only about 1.2% of cases resulted in deaths.
 
 ![percent cases with death](images/percent-cases-with-death.png)
 
+Exploring the data for percent of null and percent of null, unknown, or missing data, there are some columns with significant missing values. See the table below.
+
+| Feature | % Null | % Null or Missing |
+| --- | --- | --- |
+| case_month | 0 | 0 |
+| res_state | 0 | 0 |
+| res_county | 0.02 | 0.02 |
+| county_fips_code | 0.02 | 0.02 |
+| age_group | 1.88 | 1.93 |
+| sex | 5.32 | 5.51 |
+| race | 18.58 | 30.82 |
+| ethnicity | 22.8 | 39.45 |
+| case_positive_specimen_interval | 64.52 | 64.52 |
+| case_onset_interval | 40.85 | 40.85 |
+| process | 0 | 92.14 |
+| exposure_yn | 0 | 87.29 |
+| current_status | 0 | 0 |
+| symptom_status | 0 | 34.54 |
+| hosp_yn | 0 | 31.54 |
+| icu_yn | 0 | 89.76 |
+| death_yn | 0 | 0 |
+| underlying_conditions_yn | 88.44 | 88.44 |
+| low_income_score | 0.02 | 0.02 |
+| perc_tribal_ct | 0.02 | 0.02 |
+| perc_rural_ct | 0.02 | 0.02 |
+
+To account for these large number of null or missing values, during the predictive modeling phase three sets of data will be used:
+
+1. A dataset with no null or missing values.
+2. A dataset with null values imputed and missing values unchanged.
+3. A dataset with high null or missing value features dropped and null values imputed. The features that will be dropped are:
+    - Exposure behavior
+    - ICU visit
+    - Underlying conditions
+    - Case positive specimen interval
+
+Additional EDA on the percent of different groups that died from their COVID infection are below.
+
+![]()
 
 
 
