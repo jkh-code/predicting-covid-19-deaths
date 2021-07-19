@@ -262,3 +262,8 @@ Feature importance graphs determined through mean decrease in impurity for all t
 
 
 ## Next Steps
+- Use the Random Forest model for high NA/missing features removed dataset.
+- Balance classes using oversampling.
+- Hypertune parameters.
+- Use shap package to determine feature importance.
+- Consider removing state from dataset as states that have more comprehensive data collection programs may cause the state to show up in feature importance.
