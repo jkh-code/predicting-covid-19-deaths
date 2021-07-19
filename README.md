@@ -196,15 +196,68 @@ For each dataset a logistic regression and random forest model will be used to p
 ## Results
 
 ### Logistic Regression Models
+While the precision of the logistic regression models was between 63-76%, the recall, the main metric used to judge the effectiveness of the models, remained between 31-38%. In addition, the model using the third dataset performed worse than the model for the second dataset.
+  
+Metric | Model 1 | Model 2 | Model 3 |
+| --- | --- | --- | --- |
+| Recall | 31.1% | 38.3% | 31.0% |
+| Precision | 62.9% | 76.1% | 65.3% |
 
+From examining the confusion matrices for each model, each model had high true negative prediction but also had high false negative predictions compared to true positives.
+
+![](images/cm-logistic-no-null-no-missing.png)
+
+![](images/cm-logistic-imputed-null-keep-missing.png)
+
+![](images/cm-logistic-high-missing-features-removed.png)
+
+The precision-recall curves show that model 2 is a better predictor than model 1 and that model 3 is worse predictor than model 2. The curves for model 1 and model 3 are near diagonal lines for the entire span of the graph. The curve for model 2 is also near diagonal, however, for a recall between 0-20%, the curve is higher for longer than the other two models, which explains model 2's better performance.
+
+![](images/prp-logistic-no-null-no-missing.png)
+
+![](images/prp-logistic-imputed-null-with-missing.png)
+
+![](images/prp-logistic-high-missing-data-features-removed.png)
 
 ### Random Forest Models
+From the metrics in the table below, metric 3 is the best random forest model for the given situation. While the precision is high, the recall is still relatively low with a value of 54.4%. This means that there is still a significant number of false negatives being predicted by the model, which is undesirable because that means patients that will die are not being detected and cannot be provided alternative treatment.
+  
+| Metric | Model 1 | Model 2 | Model 3 |
+| --- | --- | --- | --- |
+| Recall | 43.4% | 48.6% | 54.5% |
+| Precision | 53.2% | 70.4% | 74.2% |
 
+The confusion matrices constantly show for model 1, model 2, and model 3 that a high number of true negatives are accurately detected, but a large number of false negatives are also being predicted relative to the number of true positives.
+
+![](images/cm-rforest-no-null-no-missing.png)
+
+![](images/cm-rforest-imputed-null-keep-missing.png)
+
+![](images/cm-rforest-high-missing-features-removed.png)
+
+The progression of the precision-recall curves from a near diagonal line for model 1 to a more bowed curve with the hump of the curve gravitating toward the upper-right corner of the graph for model 3 show that model 3 is the best model of the random forest models, and the best model between the logistic regression and random forest model groups.
+
+![](images/prp-rforest-no-null-no-missing.png)
+
+![](images/prp-rforest-imputed-null-with-missing-values.png)
+
+![](images/prp-rforest-high-missing-data-features-removed.png)
+
+Feature importance graphs determined through mean decrease in impurity for all three models are below. For the best model, model 3, the 65+ age group, coming from a rural community, and being hospitalized are key indicators of dying from a COVID-19 infection.
+
+![](images/feature-importance-no-null-no-missing.png)
+
+![](images/feature-importance-imputed-null-with-missing.png)
+
+![](images/feature-importance-high-missing-features-removed.png)
 
 ### Summary
-
-
-
+- The random Forest model for high NA/missing features removed dataset has the best recall.
+- The recall of the model still needs improvement due to the high false negatives.
+- Based on mean decrease impurity the 3 most important features are:
+    - The 65+ age group,
+    - Residing in a rural area, and
+    - Being hospitalized
 
 
 
