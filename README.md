@@ -54,7 +54,7 @@ The main dataset for this project comes from the CDC's [COVID-19 Case Surveillan
 | current_status | Is this a confirmed or probable case of COVID-19. |
 | symptom_status | Is the patient asymptomatic or symptomatic. |
 | hosp_yn | Was the patient hospitalized? |
-| icu_yn | Was the patient admitted to hte ICU? |
+| icu_yn | Was the patient admitted to the ICU? |
 | death_yn | Did the patient die as a result of the illness? |
 | underlying_conditions_yn | Did the patient have one or more underlying conditions? |
 
